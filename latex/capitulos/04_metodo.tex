@@ -1,0 +1,50 @@
+\section{Diseño Metodológico Integrado: Metodología 3P}
+
+La estrategia de investigación se articula en un diseño secuencial en cuatro fases (Fase 0 a Fase 3) que combina rigor analítico, técnicas experimentales y factibilidad operativa B2B.
+
+\subsection{Fase 0: Datos Administrativos de JxR (Semanas 1--3)}
+Revisión longitudinal de los registros de más de 140 inserciones laborales y reportes de seguimiento semanal durante los primeros 90 días. Se aplicará análisis de supervivencia de Kaplan-Meier para estimar la tasa de retención por género y sector económico, estableciendo la línea base del estudio.
+
+\subsection{Fase 1: Cualitativa --- P1: Profundizar (Semanas 1--5)}
+Exploración de la arquitectura de decisión y las trayectorias de vida mediante:
+\begin{itemize}
+    \item \textbf{6 a 8 Tríadas Empresariales:} Entrevistas sincronizadas en tres niveles de la misma organización (Gerencia General, Recursos Humanos y Jefatura Directa) para identificar los puntos de quiebre en la cadena de decisión.
+    \item \textbf{12 Entrevistas a Mujeres Egresadas:} Indagación sobre trayectorias de permanencia, barreras de cuidado y estigma en el lugar de trabajo.
+    \item \textbf{6 a 8 Entrevistas al Ecosistema y Sector Público:} Mapeo de incentivos regulatorios e intermediación laboral.
+    \item \textbf{Técnica de Viñetas Proyectivas:} Rotación experimental del género del perfil en casos hipotéticos para visibilizar sesgos explícitos e implícitos.
+\end{itemize}
+
+\subsection{Fase 2: Cuantitativa y Experimental --- P2: Priorizar (Semanas 6--9)}
+Muestra representativa de 300 a 360 decisores gerenciales de empresas en Chile (cobertura macrozona Norte, Centro y Sur; cuotas por tamaño SII y experiencia previa en inclusión), recolectada mediante un canal mixto (CAWI con refuerzo CATI). Incluye una submuestra diádica de 60 empresas (evaluando a RR.HH. y Jefatura Directa en la misma firma).
+
+El cuestionario (16 minutos) implementa el siguiente herramental científico:
+
+\subsubsection{Operacionalización de la Variable Dependiente (VD)}
+Se define la variable dependiente como la \textbf{Etapa Alcanzada} en la cadena de 5 decisiones organizacionales (Conocer, Considerar, Contratar, Implementar, Permanecer), medida como escala ordinal.
+
+\subsubsection{Experimento de Doble Lista (Double List Experiment)}
+Para medir la tasa de veto real sin sesgo de deseabilidad social, se divide la muestra de forma aleatoria en dos grupos (\(G_1\) y \(G_2\)). El grupo control evalúa una lista de condiciones inocuas de contratación, mientras que el grupo tratamiento recibe la lista incrementada con el ítem sensible (personas con antecedentes penales / mujeres anteriormente privadas de libertad). La diferencia de medias entre grupos entrega la prevalencia insesgada del veto implícito.
+
+\subsubsection{MaxDiff (Maximum Difference Scaling)}
+Se presentan conjuntos de 10 a 12 atributos (barreras e incentivos) donde el decisor debe seleccionar forzadamente la alternativa "más crítica/relevante" y "menos crítica/relevante". Las utilidades se estiman mediante modelos Logit Jerárquicos (Hierarchical Bayes).
+
+\subsubsection{Test Monádico Secuencial y Experimento de Mensajes B2B}
+Evaluación comparativa de los tres modelos de colaboración de JxR (Bolsa Laboral, OTEC y CET) y asignación entre sujetos (*between-subjects*) a tres encuadres de propuesta de valor B2B:
+\begin{enumerate}
+    \item \textbf{Encuadre A:} Impacto Social y Cumplimiento ESG.
+    \item \textbf{Encuadre B:} Eficiencia del Talento y Acompañamiento Técnico.
+    \item \textbf{Encuadre C:} Mitigación de Riesgo y Gestión Segura.
+\end{enumerate}
+
+\subsubsection{Modelación Multivariada (Regresión Ordinal)}
+Se estructurará un modelo de **Regresión Logística Ordinal** (*Ordered Logit*) para evaluar los determinantes de avance de las empresas en las distintas etapas de contratación:
+
+\begin{equation}
+\begin{aligned}
+\text{Etapa Alcanzada} = f\Big( & \text{Barreras}_{\text{MaxDiff}}, \text{Incentivos}, \text{Tamaño}_{\text{SII}}, \\
+& \text{Rubro}, \text{Veto}_{\text{Oculto}}, \text{Encuadre}_{\text{B2B}} \Big)
+\end{aligned}
+\end{equation}
+
+\subsection{Fase 3: Integración y Propuesta --- P3: Proponer (Semanas 10--12)}
+Cruce multivariado de hallazgos para la generación de la matriz de segmentación B2B, diseño del plan de acción a 90 días y calibración de los programas de JxR.

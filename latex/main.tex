@@ -2,43 +2,51 @@
 \pdfoptionpdfminorversion=7
 \documentclass[12pt]{article}
 \usepackage[utf8]{inputenc}
-% Permite usar guiones bajos sin entrar accidentalmente en modo matemático.
-% \usepackage[strings]{underscore}
 
-% 1. Desactiva los shorthands para evitar el conflicto entre babel-spanish y biblatex-apa
+% Desactiva los shorthands para evitar conflictos entre babel-spanish y biblatex
 \usepackage[spanish, shorthands=off]{babel}
 
-% 2. Requerido por biblatex-apa para gestionar citas contextuales y comillas en español
+% Requerido para gestionar citas contextuales
 \usepackage{csquotes}
 
-% 3. Estilo de bibliografía APA 7ma edición
+% Estilo de bibliografía APA 7ma edición
 \usepackage[style=apa]{biblatex}
 
-% Carga el paquete necesario para insertar imágenes (PDF, PNG, JPG)
+% Paquetes de diseño, gráficos y tablas
 \usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{booktabs}
+\usepackage{hyperref}
+\usepackage{geometry}
 
-% Le enseña a LaTeX a buscar imágenes un nivel arriba
+\geometry{top=2.5cm, bottom=2.5cm, left=3cm, right=3cm}
+
 \graphicspath{{../images/}}
-
-% Ruta al archivo de bibliografía desde la raíz del proyecto
 \addbibresource{../refs/references.bib} 
 
-\usepackage{amsmath} % Permite usar \text{} dentro de fórmulas matemáticas
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    citecolor=blue,
+    urlcolor=blue
+}
 
 \begin{document}
 
-% Inclusión modular de capítulos
+% Inclusión modular de capítulos dirigidos a Directivas del Proyecto
 \input{./capitulos/00_portada.tex}
+
+\pagenumbering{arabic} % Reinicia el contador de páginas para evitar advertencias en hyperref
+
 \input{./capitulos/01_introduccion.tex}
 \input{./capitulos/02_antecedentes.tex}
-% \input{./capitulos/03_marco_teorico.tex}
-% \input{./capitulos/04_problematizacion.tex}
-% \input{./capitulos/05_objetivos.tex}
-% \input{./capitulos/06_metodo.tex}
-% \input{./capitulos/07_equipo_de_proyecto.tex}
-\input{./capitulos/08_anexo_1_reporte.tex}
-% \input{./capitulos/09_anexo_2_material_visual.tex}
+\input{./capitulos/03_problematizacion_y_objetivos.tex}
+\input{./capitulos/04_metodo.tex}
+\input{./capitulos/05_equipo_y_gobernanza.tex}
+\input{./capitulos/06_anexo_entregables.tex}
 
-% Lista de referencias bibliográficas
+\nocite{*} % Muestra las referencias del archivo .bib aunque no estén citadas explícitamente en el texto
 \printbibliography
+
 \end{document}

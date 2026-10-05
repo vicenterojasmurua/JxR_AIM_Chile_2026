@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.9.8)  5 OCT 2026 16:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.9.8)  5 OCT 2026 17:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -59,8 +59,8 @@ Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
 \es@quottoks=\toks19
 \es@quotdepth=\count285
 ))
-LaTeX Encoding Info:    Redeclaring text command \guillemotleft (encoding OT1) on input line 10.
-LaTeX Encoding Info:    Redeclaring text command \guillemotright (encoding OT1) on input line 10.
+LaTeX Encoding Info:    Redeclaring text command \guillemotleft (encoding OT1) on input line 8.
+LaTeX Encoding Info:    Redeclaring text command \guillemotright (encoding OT1) on input line 8.
  (C:\Users\vroja\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
 Package: csquotes 2026-05-19 v5.2p context-sensitive quotations (JAW)
  (C:\Users\vroja\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
@@ -435,35 +435,162 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \mathdisplay@stack=\toks26
 LaTeX Info: Redefining \[ on input line 2950.
 LaTeX Info: Redefining \] on input line 2951.
+) (C:\Users\vroja\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (C:\Users\vroja\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\vroja\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen161
+\lightrulewidth=\dimen162
+\cmidrulewidth=\dimen163
+\belowrulesep=\dimen164
+\belowbottomsep=\dimen165
+\aboverulesep=\dimen166
+\abovetopsep=\dimen167
+\cmidrulesep=\dimen168
+\cmidrulekern=\dimen169
+\defaultaddspace=\dimen170
+\@cmidla=\count442
+\@cmidlb=\count443
+\@aboverulesep=\dimen171
+\@belowrulesep=\dimen172
+\@thisruleclass=\count444
+\@lastruleclass=\count445
+\@thisrulewidth=\dimen173
+) (C:\Users\vroja\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
+ (C:\Users\vroja\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Users\vroja\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\vroja\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (C:\Users\vroja\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
+ (C:\Users\vroja\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (C:\Users\vroja\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
+\c@section@level=\count446
+) (C:\Users\vroja\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\@linkdim=\dimen174
+\Hy@linkcounter=\count447
+\Hy@pagecounter=\count448
+ (C:\Users\vroja\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Users\vroja\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count449
+ (C:\Users\vroja\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4195.
+Package hyperref Info: Link nesting OFF on input line 4200.
+Package hyperref Info: Hyper index ON on input line 4203.
+Package hyperref Info: Plain pages OFF on input line 4210.
+Package hyperref Info: Backreferencing OFF on input line 4215.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4462.
+\c@Hy@tempcnt=\count450
+LaTeX Info: Redefining \url on input line 4801.
+\XeTeXLinkMargin=\dimen175
+ (C:\Users\vroja\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (C:\Users\vroja\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count451
+\Field@Width=\dimen176
+\Fld@charsize=\dimen177
+Package hyperref Info: Hyper figures OFF on input line 6078.
+Package hyperref Info: Link nesting OFF on input line 6083.
+Package hyperref Info: Hyper index ON on input line 6086.
+Package hyperref Info: backreferencing OFF on input line 6093.
+Package hyperref Info: Link coloring OFF on input line 6098.
+Package hyperref Info: Link coloring with OCG OFF on input line 6103.
+Package hyperref Info: PDF/A mode OFF on input line 6108.
+\Hy@abspage=\count452
+\c@Item=\count453
+\c@Hfootnote=\count454
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (C:\Users\vroja\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
+\Fld@listcount=\count455
+\c@bookmark@seq@number=\count456
+ (C:\Users\vroja\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+ (C:\Users\vroja\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
+)
+\Hy@SectionHShift=\skip76
+) (C:\Users\vroja\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2026/03/07 v6.0 Page Geometry
+ (C:\Users\vroja\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count457
+\Gm@cntv=\count458
+\c@Gm@tempcnt=\count459
+\Gm@bindingoffset=\dimen178
+\Gm@wd@mp=\dimen179
+\Gm@odd@mp=\dimen180
+\Gm@even@mp=\dimen181
+\Gm@layoutwidth=\dimen182
+\Gm@layoutheight=\dimen183
+\Gm@layouthoffset=\dimen184
+\Gm@layoutvoffset=\dimen185
+\Gm@dimlist=\toks27
+ (C:\Users\vroja\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+Package hyperref Info: Option `colorlinks' set `true' on input line 33.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
  (main.aux
-LaTeX Info: Redefining \. on input line 6.
-LaTeX Info: Redefining \% on input line 6.
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
 Package babel Info: 'spanish' activates 'spanish' shorthands.
-(babel)             Reported on input line 6.
+(babel)             Reported on input line 9.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Info: Redefining \. on input line 28.
-LaTeX Info: Redefining \% on input line 28.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Info: Redefining \. on input line 35.
+LaTeX Info: Redefining \% on input line 35.
 Package biblatex Info: Trying to load language 'spanish' -> 'spanish-apa'...
 Package biblatex Info: ... file 'spanish-apa.lbx' found.
  (C:\Users\vroja\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\spanish-apa.lbx
@@ -484,470 +611,118 @@ Package biblatex Info: Automatic encoding selection.
 \openout3 = `main.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'main.bbl' not found.
-
-No file main.bbl.
-Package biblatex Info: Reference section=0 on input line 28.
-Package biblatex Info: Reference segment=0 on input line 28.
-(C:\Users\vroja\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+Package biblatex Info: ... file 'main.bbl' found.
+ (main.bbl)
+Package biblatex Info: Reference section=0 on input line 35.
+Package biblatex Info: Reference segment=0 on input line 35.
+ (C:\Users\vroja\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count442
-\scratchdimen=\dimen161
+\scratchcounter=\count460
+\scratchdimen=\dimen186
 \scratchbox=\box55
-\nofMPsegments=\count443
-\nofMParguments=\count444
-\everyMPshowfont=\toks27
-\MPscratchCnt=\count445
-\MPscratchDim=\dimen162
-\MPnumerator=\count446
-\makeMPintoPDFobject=\count447
-\everyMPtoPDFconversion=\toks28
+\nofMPsegments=\count461
+\nofMParguments=\count462
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count463
+\MPscratchDim=\dimen187
+\MPnumerator=\count464
+\makeMPintoPDFobject=\count465
+\everyMPtoPDFconversion=\toks29
 ) (C:\Users\vroja\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
- (C:\Users\vroja\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
- (C:\Users\vroja\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
-Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-))
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
  (C:\Users\vroja\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-)) (capitulos/00_portada.tex
-<../images/logo-sociales.png, id=1, 381.8265pt x 210.18526pt>
+)) (C:\Users\vroja\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2025/01/14 v1.3e Standard LaTeX Color (DPC)
+ (C:\Users\vroja\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+ (C:\Users\vroja\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx))
+Package hyperref Info: Link coloring ON on input line 35.
+ (main.out) (main.out)
+\@outlinefile=\write4
+\openout4 = `main.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 443.57848pt, 85.35826pt)
+* v-part:(T,H,B)=(71.13188pt, 652.70622pt, 71.13188pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=443.57848pt
+* \textheight=652.70622pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(capitulos/00_portada.tex
+<../images/logo-sociales.png, id=107, 381.8265pt x 210.18526pt>
 File: ../images/logo-sociales.png Graphic file (type png)
 <use ../images/logo-sociales.png>
-Package pdftex.def Info: ../images/logo-sociales.png  used on input line 6.
-(pdftex.def)             Requested size: 99.58464pt x 54.81685pt.
+Package pdftex.def Info: ../images/logo-sociales.png  used on input line 7.
+(pdftex.def)             Requested size: 113.81102pt x 62.64874pt.
  [1
 
 {C:/Users/vroja/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <../images/logo-sociales.png>]) (capitulos/01_introduccion.tex
-
-LaTeX Warning: Citation 'cepalPanoramaSocialAmerica2025' on page 1 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Adam2025' on page 1 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'doValleGomesdaSilva2026' on page 1 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Nessieretal2026' on page 1 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'Malheretal2026' on page 1 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'GindlingRonconi2025' on page 1 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'MaurizioVazquez2016' on page 1 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'DuranKremerman2024' on page 1 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'INE2024' on page 1 undefined on input line 3.
-
-
-Overfull \hbox (59.80159pt too wide) in paragraph at lines 3--4
-\OT1/cmr/m/n/12 es-truc-tu-ra-les en el mer-ca-do de tra-ba-jo re-gio-nal ([]).
- []
-
-
-Overfull \hbox (110.16841pt too wide) in paragraph at lines 3--4
-[]\OT1/cmr/m/n/12 ) y la he-te-ro-ge-nei-dad de los in-gre-sos la-bo-ra-les ([];
- []
-
-
-LaTeX Warning: Citation 'ResumenResultadosCASEN2023' on page 1 undefined on input line 7.
-
-
-LaTeX Warning: Citation 'Stampinietal2025' on page 1 undefined on input line 7.
-
-
-LaTeX Warning: Citation 'Carrere2026' on page 1 undefined on input line 7.
-
-
-LaTeX Warning: Citation 'BarreraInsuaNoguera2026' on page 1 undefined on input line 7.
-
-
-LaTeX Warning: Citation 'DuranS2026' on page 1 undefined on input line 7.
-
-
-LaTeX Warning: Citation 'DuranSilva2022' on page 1 undefined on input line 7.
-
-
-LaTeX Warning: Citation 'MarxElCapital2008' on page 1 undefined on input line 7.
-
-
-LaTeX Warning: Citation 'cepalPanoramaSocialAmerica2025' on page 1 undefined on input line 7.
-
-
-LaTeX Warning: Citation 'CostaRibeiroCarcalhaes2024' on page 1 undefined on input line 7.
-
-) (capitulos/02_antecedentes.tex
-Overfull \hbox (33.17693pt too wide) in paragraph at lines 7--1
-\OT1/cmr/m/n/12 La-ti-na ([]; []).
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--1
-
- []
-
-[1]
-Underfull \hbox (badness 7796) in paragraph at lines 7--7
-[][]\OT1/cmr/m/n/10 PRISMA sig-ni-fi-ca \OT1/cmr/m/it/10 Pre-fe-rred Re-por-ting Items for Sys-te-ma-tic Re-views and
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--7
-\OT1/cmr/m/it/10 Meta-Analyses \OT1/cmr/m/n/10 (Ele-men-tos de in-for-ma-ci^^Son pre-fe-ri-dos pa-ra re-vi-sio-nes sis-
- []
-
-
-Underfull \hbox (badness 4819) in paragraph at lines 7--7
-\OT1/cmr/m/n/10 tem^^Sati-cas y me-taan^^Sali-sis). La ver-si^^Son 2020 re-em-pla-za a la an-ti-gua gu^^S^^Pa de
- []
-
-
-Underfull \hbox (badness 4254) in paragraph at lines 7--7
-\OT1/cmr/m/n/10 2009 pa-ra adap-tar-se a los nue-vos avan-ces me-to-dol^^Sogi-cos en la in-ves-ti-ga-ci^^Son.
- []
-
-[2] [3]
-
-LaTeX Warning: Citation 'MaurizioVazquez2016' on page 4 undefined on input line 31.
-
-
-LaTeX Warning: Citation 'GindlingRonconi2025' on page 4 undefined on input line 31.
-
-
-LaTeX Warning: Citation 'FirpoPortella2025' on page 4 undefined on input line 31.
-
-
-LaTeX Warning: Citation 'DuranS2026' on page 4 undefined on input line 33.
-
-
-LaTeX Warning: Citation 'BarreraInsuaNoguera2026' on page 4 undefined on input line 33.
-
-
-LaTeX Warning: Citation 'Amuedo-Dorantes2005' on page 4 undefined on input line 33.
-
-
-LaTeX Warning: Citation 'TapiaCatalanMarchantSantiago2025' on page 4 undefined on input line 33.
-
-[4]
-
-LaTeX Warning: Citation 'VillanuevaLin2020' on page 5 undefined on input line 35.
-
-
-LaTeX Warning: Citation 'KennedyAguila2021' on page 5 undefined on input line 35.
-
-
-LaTeX Warning: Citation 'DuranKremerman2024' on page 5 undefined on input line 35.
-
-
-LaTeX Warning: Citation 'barrigaMujeresPobrezaTiempo2025' on page 5 undefined on input line 35.
-
-
-Overfull \hbox (52.27794pt too wide) in paragraph at lines 35--36
-\OT1/cmr/m/n/12 dad con-fi-gu-ran ses-gos es-truc-tu-ra-les de in-gre-sos. Vi-lla-nue-va y Lin ([])
- []
-
-
-Overfull \hbox (2.06375pt too wide) in paragraph at lines 37--37
-[]\OT1/cmr/bx/n/14.4 ii. Din^^Sami-cas in-fla-cio-na-rias, shocks ma-cro-econ^^Somi-
- []
-
-
-LaTeX Warning: Citation 'Adam2025' on page 5 undefined on input line 39.
-
-
-LaTeX Warning: Citation 'doValleGomesdaSilva2026' on page 5 undefined on input line 39.
-
-
-LaTeX Warning: Citation 'Nessieretal2026' on page 5 undefined on input line 39.
-
-
-LaTeX Warning: Citation 'SilvaCanellaetal2026' on page 5 undefined on input line 39.
-
-[5]
-
-LaTeX Warning: Citation 'Malheretal2026' on page 6 undefined on input line 43.
-
-
-LaTeX Warning: Citation 'CostaFilho2023' on page 6 undefined on input line 43.
-
-
-LaTeX Warning: Citation 'Gredigetal2008' on page 6 undefined on input line 45.
-
-
-LaTeX Warning: Citation 'Pincheira2008' on page 6 undefined on input line 45.
-
-
-LaTeX Warning: Citation 'Medel2025' on page 6 undefined on input line 45.
-
-
-LaTeX Warning: Citation 'CabellosSanhueza2016' on page 6 undefined on input line 45.
-
-
-LaTeX Warning: Citation 'Al-HelalUddinAkram2025' on page 6 undefined on input line 45.
-
-
-Overfull \hbox (29.83127pt too wide) in paragraph at lines 45--46
-\OT1/cmr/m/n/12 han si-do abor-da-dos a trav^^Ses del ho-ri-zon-te de pol^^S^^Pti-ca mo-ne-ta-ria ([]),
- []
-
-
-Overfull \hbox (60.58002pt too wide) in paragraph at lines 45--46
-\OT1/cmr/m/n/12 trans-mi-si^^Son de shocks econ^^Somi-cos ha-cia la es-truc-tu-ra de ta-sas ([];
- []
-
-
-LaTeX Warning: Citation 'Geoetal2024' on page 6 undefined on input line 47.
-
-
-LaTeX Warning: Citation 'CakirEkrem2025' on page 6 undefined on input line 47.
-
-
-LaTeX Warning: Citation 'Yilmazkuday2025' on page 6 undefined on input line 47.
-
-
-Overfull \hbox (16.84792pt too wide) in paragraph at lines 47--48
-\OT1/cmr/m/n/12 es-ta-bi-li-za-ci^^Son lo-ca-les ([]; []; []). 
- []
-
-
-LaTeX Warning: Citation 'Stampinietal2025' on page 6 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Brooks2015' on page 6 undefined on input line 51.
-
-
-Overfull \hbox (37.01082pt too wide) in paragraph at lines 51--52
-\OT1/cmr/m/n/12 me-ca-nis-mo es-ta-tal de ate-nua-ci^^Son de la po-bre-za. Stam-pi-ni et al. ([])
- []
-
-
-LaTeX Warning: Citation 'AgostiniBrown2011' on page 6 undefined on input line 55.
-
-
-LaTeX Warning: Citation 'OliveiraOsorioGonner2022' on page 6 undefined on input line 55.
-
-
-LaTeX Warning: Citation 'ResumenResultadosCASEN2023' on page 6 undefined on input line 55.
-
-
-LaTeX Warning: Citation 'TensoresBienestarSocial2024' on page 6 undefined on input line 55.
-
-
-Overfull \hbox (18.177pt too wide) in paragraph at lines 55--56
-\OT1/cmr/m/n/12 ([]; []). 
- []
-
-[6]
-
-LaTeX Warning: Citation 'Carrere2026' on page 7 undefined on input line 56.
-
-
-LaTeX Warning: Citation 'Segall-Correaetal2008' on page 7 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'OrnellasMauriel2025' on page 7 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Prieto2024' on page 7 undefined on input line 60.
-
-
-LaTeX Warning: Citation 'InformeFinalRecomendaciones2025' on page 7 undefined on input line 60.
-
-
-Overfull \hbox (119.26218pt too wide) in paragraph at lines 60--61
-\OT1/cmr/m/n/12 si^^Son Ase-so-ra Pre-si-den-cial de Ex-per-tos y Ex-per-tas de Chi-le ([])
- []
-
-
-LaTeX Warning: Citation 'Floresetal2020' on page 7 undefined on input line 64.
-
-
-LaTeX Warning: Citation 'Diazetal2021' on page 7 undefined on input line 64.
-
-
-LaTeX Warning: Citation 'Contreras1999' on page 7 undefined on input line 64.
-
-
-LaTeX Warning: Citation 'BravoValderrama2011' on page 7 undefined on input line 64.
-
-
-LaTeX Warning: Citation 'Sotomayor2008' on page 7 undefined on input line 64.
-
-
-LaTeX Warning: Citation 'MadeirosGalvao2014' on page 7 undefined on input line 64.
-
-
-LaTeX Warning: Citation 'Nascimientoetal1999' on page 7 undefined on input line 64.
-
-
-Overfull \hbox (32.37189pt too wide) in paragraph at lines 64--65
-\OT1/cmr/m/n/12 el re-torno edu-ca-ti-vo de las ^^Seli-tes y la pro-pie-dad de ac-ti-vos ([]). 
- []
-
-
-LaTeX Warning: Citation 'Agostinietal2010' on page 7 undefined on input line 66.
-
-
-LaTeX Warning: Citation 'Painteretal2020' on page 7 undefined on input line 66.
-
-
-LaTeX Warning: Citation 'Sueetal2024' on page 7 undefined on input line 66.
-
-
-LaTeX Warning: Citation 'Tellesetal2025' on page 7 undefined on input line 66.
-
-
-LaTeX Warning: Citation 'Soaresetal2012' on page 7 undefined on input line 66.
-
-
-LaTeX Warning: Citation 'Gradin2014' on page 7 undefined on input line 66.
-
-
-LaTeX Warning: Citation 'FigueiredoSantos2005' on page 7 undefined on input line 66.
-
-
-LaTeX Warning: Citation 'Baileyetal2014' on page 7 undefined on input line 66.
-
-
-Overfull \hbox (8.9958pt too wide) in paragraph at lines 66--67
-\OT1/cmr/m/n/12 tra pro-fun-da-men-te ra-cia-li-za-da y et-ni-fi-ca-da. Agos-ti-ni et al. ([])
- []
-
-[7]
-
-LaTeX Warning: Citation 'NunezRisco2004' on page 8 undefined on input line 70.
-
-
-LaTeX Warning: Citation 'Contrerasetal2014' on page 8 undefined on input line 70.
-
-
-LaTeX Warning: Citation 'DaudeRobano2015' on page 8 undefined on input line 70.
-
-
-LaTeX Warning: Citation 'Contrerasetal2014' on page 8 undefined on input line 70.
-
-
-LaTeX Warning: Citation 'BeccariaGroisman2008' on page 8 undefined on input line 70.
-
-
-LaTeX Warning: Citation 'CostaRibeiroCarcalhaes2024' on page 8 undefined on input line 70.
-
-
-Overfull \hbox (36.94608pt too wide) in paragraph at lines 70--71
-\OT1/cmr/m/n/12 tua-da ri-gi-dez en la es-truc-tu-ra so-cial de la re-gi^^Son. N^^Su~nez y Ris-co ([]),
- []
-
-
-Overfull \hbox (26.36801pt too wide) in paragraph at lines 70--71
-\OT1/cmr/m/n/12 Con-tre-ras et al. ([]), y Dau-de y Ro-bano ([])
- []
-
-
-Overfull \hbox (38.22723pt too wide) in paragraph at lines 70--71
-\OT1/cmr/m/n/12 do el rol de la edu-ca-ci^^Son co-mo mo-tor de mo-vi-li-dad as-cen-den-te ([]).
- []
-
-
-Overfull \hbox (23.29852pt too wide) in paragraph at lines 70--71
-\OT1/cmr/m/n/12 Re-sul-ta-dos an^^Salo-gos son iden-ti-fi-ca-dos pa-ra Ar-gen-ti-na ([])
- []
-
-
-LaTeX Warning: Citation 'RojasCharlesLeija2022' on page 8 undefined on input line 72.
-
-
-LaTeX Warning: Citation 'LattzLara2026' on page 8 undefined on input line 72.
-
-
-LaTeX Warning: Citation 'Perez-Ahumadaetal2026' on page 8 undefined on input line 72.
-
-
-LaTeX Warning: Citation 'Perez-AhumadaCarrasco2025' on page 8 undefined on input line 72.
-
-) (capitulos/08_anexo_1_reporte.tex [8]
-Overfull \hbox (9.08347pt too wide) in paragraph at lines 13--13
-[]\OT1/cmr/bx/n/12 B^^Susque-da Com-ple-men-ta-ria Re-gio-nal (SciE-LO, Re-dalyc, Dial-
- []
-
-[9]
-Overfull \hbox (11.02455pt too wide) in paragraph at lines 37--38
-[]\OT1/cmtt/m/n/12 "costo de vida" OR "canasta b^^Sasica" "salario real" Chile
- []
-
-
-Overfull \hbox (48.07457pt too wide) in paragraph at lines 38--39
-[]\OT1/cmtt/m/n/12 "transferencias monetarias" OR "informalidad laboral" "ingreso
- []
-
-
-Overfull \hbox (66.59958pt too wide) in paragraph at lines 39--40
-[]\OT1/cmtt/m/n/12 "CASEN" OR "EPH" OR "PNAD" "costo de vida" OR "poder adquisitivo" 
- []
-
-[10] [11]
-Overfull \hbox (7.30025pt too wide) in paragraph at lines 77--78
-[]\OT1/cmr/bx/n/12 Precisi^^Son Me-to-dol^^Sogi-ca Ofi-cial\OT1/cmr/m/n/12 : Pro-por-cio-na la do-cu-men-ta-ci^^Son t^^Secni-
- []
-
-[12]
-<../images/prisma-flowchart.pdf, id=57, 871.255pt x 335.2525pt>
-File: ../images/prisma-flowchart.pdf Graphic file (type pdf)
-<use ../images/prisma-flowchart.pdf>
-Package pdftex.def Info: ../images/prisma-flowchart.pdf  used on input line 98.
-(pdftex.def)             Requested size: 390.0pt x 150.06932pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
+ (C:\Users\vroja\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-
-LaTeX Warning: Empty bibliography on input line 43.
-
-[13 <../images/prisma-flowchart.pdf>] (main.aux
-LaTeX Info: Redefining \sptext on input line 6.
-LaTeX Info: Redefining \. on input line 6.
-LaTeX Info: Redefining \% on input line 6.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
+ (C:\Users\vroja\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)) (capitulos/02_antecedentes.tex [1]) (capitulos/03_problematizacion_y_objetivos.tex [2]) (capitulos/04_metodo.tex [3] [4]) (capitulos/05_equipo_y_gobernanza.tex [5]) (capitulos/06_anexo_entregables.tex [6]) [7] [8] (main.aux
+LaTeX Info: Redefining \sptext on input line 9.
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
 )
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: D66EF77FDF9787CE428FEA23DA2B0C90;7407.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 12914 strings out of 467870
- 244236 string characters out of 5418356
- 1179122 words of memory out of 5000000
- 41661 multiletter control sequences out of 15000+600000
- 635735 words of font info for 68 fonts, out of 8000000 for 9000
+ 20306 strings out of 467870
+ 359253 string characters out of 5418356
+ 1294728 words of memory out of 5000000
+ 48880 multiletter control sequences out of 15000+600000
+ 636693 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,8n,67p,2102b,2805s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\vroja\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/vroja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/vroja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/vroja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/vroja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/vroja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/vroja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/vroja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/vroja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/vroja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/vroja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (14 pages, 282348 bytes).
+ 63i,11n,67p,2683b,2805s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/vroja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/vroja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/vroja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/vroja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/vroja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/vroja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/vroja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/vroja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/vroja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/vroja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on main.pdf (9 pages, 250365 bytes).
 PDF statistics:
- 121 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 261 PDF objects out of 1000 (max. 8388607)
+ 72 named destinations out of 1000 (max. 500000)
+ 214 words of extra memory for PDF output out of 10000 (max. 10000000)
 
