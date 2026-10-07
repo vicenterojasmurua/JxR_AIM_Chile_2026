@@ -1,0 +1,600 @@
+﻿fecha,region,establecimiento,administracion,tipo_poblacion_afecta,poblacion,regimen_control,sexo,atendidos,capacidad
+31/08/2026,Región del Libertador Bernardo O'Higgins,C.P. Rancagua,Concesionada,Cerrado 24 Hrs.,Detenidos,Régimen Cerrado,Mujer,3,170
+31/08/2026,Región del Libertador Bernardo O'Higgins,C.P. Rancagua,Concesionada,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Mujer,94,170
+31/08/2026,Región del Libertador Bernardo O'Higgins,C.P. Rancagua,Concesionada,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,91,170
+31/08/2026,Región del Maule,C.D.P. Curepto,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Maule,C.P.F. Talca,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Maule,C.C.P. Talca,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Maule,C.C.P. Cauquenes,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Maule,C.C.P. Curicó,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Maule,C.C.P. Linares,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Maule,C.C.P. Molina,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Maule,C.C.P. Parral,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Maule,C.C.P. San Javier,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Maule,C.D.P. Chanco,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Maule,C.D.P. Constitución,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Maule,C.C.P. Talca,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región del Maule,C.C.P. Curicó,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región del Maule,C.C.P. Linares,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región del Maule,C.C.P. Molina,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región del Maule,C.C.P. Parral,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región del Maule,C.C.P. San Javier,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región del Maule,C.D.P. Chanco,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región del Maule,C.D.P. Constitución,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región del Maule,C.D.P. Curepto,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región del Maule,C.P.F. Talca,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de la Araucanía,C.C.P. Lautaro,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de la Araucanía,C.C.P. Nueva Imperial,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de la Araucanía,C.C.P. Temuco,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de la Araucanía,C.C.P. Victoria,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de la Araucanía,C.D.P. Angol,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de la Araucanía,C.C.P. Collipulli,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de la Araucanía,C.D.P. Curacautín,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de la Araucanía,C.D.P. Pitrufquén,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de la Araucanía,C.D.P. Traiguén,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de la Araucanía,C.D.P. Villarrica,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de la Araucanía,C.C.P. Lautaro,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de la Araucanía,C.C.P. Nueva Imperial,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de la Araucanía,C.C.P. Victoria,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de la Araucanía,C.D.P. Angol,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de la Araucanía,C.C.P. Collipulli,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de la Araucanía,C.D.P. Curacautín,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de la Araucanía,C.D.P. Pitrufquén,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de la Araucanía,C.D.P. Traiguén,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de la Araucanía,C.D.P. Villarrica,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de la Araucanía,C.P.F. Temuco,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región Metropolitana,C.R.A. Manuel Rodríguez,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región Metropolitana,C.C.P. Colina I,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región Metropolitana,C.C.P. Colina II,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región Metropolitana,C.C.P. Tiltil,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región Metropolitana,C.D.P. Puente Alto,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región Metropolitana,C.P.F. San Miguel,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región Metropolitana,C.D.P. Stgo. Sur,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región Metropolitana,C.D.P. Talagante,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región Metropolitana,R.E.P.A.S.,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región Metropolitana,C.D.P. Talagante,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región Metropolitana,C.R.A. Manuel Rodríguez,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región Metropolitana,C.C.P. Colina I,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región Metropolitana,C.C.P. Colina II,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región Metropolitana,C.C.P. Tiltil,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región Metropolitana,C.P.F. San Miguel,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región Metropolitana,C.D.P. Stgo. Sur,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región Metropolitana,R.E.P.A.S.,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región Metropolitana,C.P.F. Stgo.,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Valparaíso,C.C.P. Los Andes,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Valparaíso,C.C.P. San Antonio,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Valparaíso,C.C.P. San Felipe,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Valparaíso,C.D.P. Casablanca,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Valparaíso,C.D.P. Limache,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Valparaíso,C.D.P. Petorca,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Valparaíso,C.D.P. Quillota,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Valparaíso,S.C. Isla de Pascua,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Valparaíso,C.C.P. Los Andes,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Valparaíso,C.C.P. San Antonio,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Valparaíso,C.C.P. San Felipe,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Valparaíso,C.D.P. Casablanca,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Valparaíso,C.D.P. Limache,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Valparaíso,C.D.P. Petorca,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Valparaíso,C.D.P. Quillota,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Valparaíso,S.C. Isla de Pascua,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región del Biobío,C.C.P. Coronel,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Biobío,C.D.P. Arauco,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Biobío,C.D.P. Lebu,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Biobío,C.D.P. Los Ángeles,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Biobío,C.D.P. Mulchén,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Biobío,C.D.P. Yumbel,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Biobío,C.P. Concepción,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Biobío,C.C.P. Coronel,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región del Biobío,C.D.P. Arauco,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región del Biobío,C.D.P. Lebu,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región del Biobío,C.D.P. Los Ángeles,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región del Biobío,C.D.P. Mulchén,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región del Biobío,C.D.P. Yumbel,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región del Biobío,C.P. Concepción,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Ñuble,C.C.P. Bulnes,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Ñuble,C.C.P. Chillán,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Ñuble,C.D.P. Quirihue,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Ñuble,C.D.P. San Carlos,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Ñuble,C.D.P. Yungay,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Ñuble,C.P.F. Bulnes,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Ñuble,C.C.P. Bulnes,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Ñuble,C.D.P. Quirihue,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Ñuble,C.D.P. San Carlos,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Ñuble,C.D.P. Yungay,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Ñuble,C.P.F. Bulnes,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Antofagasta,C.C.P. Antofagasta,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Antofagasta,C.D.P. Calama,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Antofagasta,C.D.P. Taltal,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Antofagasta,C.D.P. Tocopilla,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Antofagasta,C.P.F. Antofagasta,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Antofagasta,C.C.P. Antofagasta,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Antofagasta,C.D.P. Calama,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Antofagasta,C.D.P. Taltal,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Antofagasta,C.D.P. Tocopilla,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Antofagasta,C.P.F. Antofagasta,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Los Lagos,C.D.P. Ancud,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Los Lagos,C.D.P. Castro,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Los Lagos,C.D.P. Río Negro,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Los Lagos,C.C.P. Osorno,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Los Lagos,C.D.P. Ancud,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Los Lagos,C.D.P. Castro,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Los Lagos,C.D.P. Río Negro,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Coquimbo,C.D.P. Vicuña,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Coquimbo,C.D.P. Combarbalá,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Coquimbo,C.D.P. Illapel,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Coquimbo,C.D.P. Ovalle,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Coquimbo,C.D.P. Vicuña,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Coquimbo,C.D.P. Combarbalá,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Coquimbo,C.D.P. Illapel,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Aysén del General Carlos Ibáñez del Campo,C.D.P. Chile Chico,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Aysén del General Carlos Ibáñez del Campo,C.D.P. Cochrane,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Aysén del General Carlos Ibáñez del Campo,C.D.P. Puerto Aysén,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Aysén del General Carlos Ibáñez del Campo,C.C.P. Coyhaique,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Aysén del General Carlos Ibáñez del Campo,C.D.P. Chile Chico,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Aysén del General Carlos Ibáñez del Campo,C.D.P. Cochrane,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Atacama,C.C.P. Chañaral,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Atacama,C.D.P. Vallenar,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Atacama,C.C.P. Chañaral,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Atacama,C.C.P. Copiapó,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Magallanes y la Antártica Chilena,C.D.P. Porvenir,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Magallanes y la Antártica Chilena,C.D.P. Puerto Natales,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Magallanes y la Antártica Chilena,C.D.P. Puerto Natales,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Magallanes y la Antártica Chilena,C.D.P. Porvenir,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región del Libertador Bernardo O'Higgins,C.C.P. Rengo,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Libertador Bernardo O'Higgins,C.D.P. Peumo,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Libertador Bernardo O'Higgins,C.C.P. Santa Cruz,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región del Libertador Bernardo O'Higgins,C.D.P. Peumo,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Los Ríos,C.D.P. La Unión,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Tarapacá,C.D.P. Pozo Almonte,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Los Ríos,C.D.P. La Unión,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Arica y Parinacota,C.P. Arica,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Tarapacá,C.D.P. Pozo Almonte,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Los Ríos,C.P. Valdivia,Concesionada,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Los Lagos,C.P. Puerto Montt,Concesionada,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región Metropolitana,C.D.P. Stgo. I,Concesionada,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Libertador Bernardo O'Higgins,C.P. Rancagua,Concesionada,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región Metropolitana,C.D.P. Stgo. I,Concesionada,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Tarapacá,C.P. Alto Hospicio,Concesionada,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región del Maule,C.P. Talca,Concesionada,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región del Libertador Bernardo O'Higgins,C.P. Rancagua,Concesionada,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Los Ríos,C.P. Valdivia,Concesionada,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región del Maule,C.P. Talca,Concesionada,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Tarapacá,C.P. Alto Hospicio,Concesionada,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Antofagasta,C.C.P. Antofagasta Conc.,Concesionada,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Coquimbo,C.P. La Serena,Concesionada,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Biobío,C.C.P. Biobío,Concesionada,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Biobío,C.P. Biobío,Concesionada,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región del Biobío,C.C.P. Biobío,Concesionada,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,0
+31/08/2026,Región del Biobío,C.P. Biobío,Concesionada,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Biobío,C.C.P. Biobío,Concesionada,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región Metropolitana,C.D.P. Stgo. I,Concesionada,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Biobío,C.C.P. Biobío,Concesionada,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,0,0
+31/08/2026,Región del Maule,C.P. Talca,Concesionada,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Los Ríos,C.D.P. La Unión,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Los Lagos,C.D.P. Río Negro,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,0,0
+31/08/2026,Región Metropolitana,C.R.A. Manuel Rodríguez,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,0,0
+31/08/2026,Región Metropolitana,C.P.F. San Miguel,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,0,0
+31/08/2026,Región Metropolitana,C.P.F. Stgo.,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Arica y Parinacota,C.P.F. Arica,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Antofagasta,C.C.P. Antofagasta,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Antofagasta,C.P.F. Antofagasta,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Coquimbo,C.D.P. Combarbalá,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Coquimbo,C.D.P. Vicuña,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Valparaíso,C.C.P. San Felipe,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Ñuble,C.C.P. Bulnes,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Ñuble,C.P.F. Bulnes,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,0,0
+31/08/2026,Región del Biobío,C.P. Concepción,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,0,0
+31/08/2026,Región del Biobío,C.C.P. Coronel,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,0,0
+31/08/2026,Región del Biobío,C.D.P. Los Ángeles,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,0,0
+31/08/2026,Región del Maule,C.C.P. San Javier,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,0,0
+31/08/2026,Región del Maule,C.D.P. Constitución,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,0,0
+31/08/2026,Región del Maule,C.D.P. Curepto,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,0,0
+31/08/2026,Región del Maule,C.P.F. Talca,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,0,0
+31/08/2026,Región de Valparaíso,C.C.P. San Felipe,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Valparaíso,C.D.P. Casablanca,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Valparaíso,C.D.P. Limache,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Valparaíso,C.D.P. Petorca,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Los Lagos,C.D.P. Ancud,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Los Lagos,C.D.P. Castro,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Los Lagos,C.D.P. Río Negro,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Libertador Bernardo O'Higgins,C.D.P. Peumo,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Los Ríos,C.C.P. Río Bueno,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Los Ríos,C.D.P. La Unión,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Aysén del General Carlos Ibáñez del Campo,C.D.P. Cochrane,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Magallanes y la Antártica Chilena,C.D.P. Porvenir,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Antofagasta,C.C.P. Antofagasta,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Coquimbo,C.D.P. Combarbalá,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Coquimbo,C.D.P. Vicuña,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Libertador Bernardo O'Higgins,C.C.P. Rengo,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Tarapacá,C.D.P. Pozo Almonte,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Ñuble,C.C.P. Bulnes,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Ñuble,C.C.P. Chillán,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Ñuble,C.D.P. Quirihue,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Ñuble,C.D.P. San Carlos,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Ñuble,C.D.P. Yungay,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Biobío,C.C.P. Coronel,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Biobío,C.D.P. Lebu,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Biobío,C.D.P. Los Ángeles,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Biobío,C.D.P. Mulchén,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Biobío,C.D.P. Yumbel,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Biobío,C.P. Concepción,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región Metropolitana,C.R.A. Manuel Rodríguez,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región Metropolitana,C.C.P. Colina I,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región Metropolitana,C.C.P. Colina II,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región Metropolitana,C.C.P. Tiltil,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región Metropolitana,C.D.P. Puente Alto,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región Metropolitana,C.D.P. Talagante,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región Metropolitana,R.E.P.A.S.,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de la Araucanía,C.C.P. Lautaro,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de la Araucanía,C.C.P. Nueva Imperial,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de la Araucanía,C.C.P. Temuco,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de la Araucanía,C.C.P. Collipulli,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de la Araucanía,C.D.P. Curacautín,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de la Araucanía,C.D.P. Pitrufquén,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de la Araucanía,C.D.P. Traiguén,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Maule,C.C.P. Talca,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Maule,C.C.P. Curicó,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Maule,C.C.P. Linares,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Maule,C.C.P. Molina,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Maule,C.C.P. San Javier,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Maule,C.D.P. Chanco,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Maule,C.D.P. Constitución,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región del Maule,C.D.P. Curepto,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,0
+31/08/2026,Región de Tarapacá,C.E.T. Semi. Pozo Almonte,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Mujer,0,0
+31/08/2026,Región de Antofagasta,C.E.T. Ojo Opache,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Mujer,0,0
+31/08/2026,Región de Valparaíso,C.E.T. Putaendo,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Mujer,0,0
+31/08/2026,Región de Valparaíso,C.E.T. Valparaíso,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Mujer,0,0
+31/08/2026,Región del Biobío,C.E.T. Cañete,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Mujer,0,0
+31/08/2026,Región de Ñuble,C.E.T. Yungay,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Mujer,0,0
+31/08/2026,Región de la Araucanía,C.E.T. Angol,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Mujer,0,0
+31/08/2026,Región de la Araucanía,C.E.T. Victoria,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Mujer,0,0
+31/08/2026,Región de Los Lagos,C.E.T. Osorno,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Mujer,0,0
+31/08/2026,Región de Magallanes y la Antártica Chilena,C.E.T. Punta Arenas,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Mujer,0,0
+31/08/2026,Región Metropolitana,C.E.T. Metropolitano,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Mujer,0,0
+31/08/2026,Región Metropolitana,C.E.T. Fem. Semi. Stgo.,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Hombre,0,0
+31/08/2026,Región de la Araucanía,C.C.P. Victoria,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,14
+31/08/2026,Región de Aysén del General Carlos Ibáñez del Campo,C.D.P. Chile Chico,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,6
+31/08/2026,Región de Antofagasta,C.D.P. Taltal,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,8
+31/08/2026,Región de Atacama,C.C.P. Chañaral,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,0,10
+31/08/2026,Región de Tarapacá,C.C.P. Iquique,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,0,92
+31/08/2026,Región de Antofagasta,C.E.T. Ojo Opache,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Hombre,0,25
+31/08/2026,Región de Los Lagos,C.C.P. Osorno,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,20
+31/08/2026,Región de Aysén del General Carlos Ibáñez del Campo,C.C.P. Coyhaique,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,8
+31/08/2026,Región Metropolitana,C.P.F. Stgo.,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,7
+31/08/2026,Región de Valparaíso,C.P. Valparaíso,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,15
+31/08/2026,Región Metropolitana,C.D.P. Puente Alto,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,98
+31/08/2026,Región de Tarapacá,C.C.P. Iquique,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,40
+31/08/2026,Región de Atacama,C.C.P. Copiapó,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,20
+31/08/2026,Región de Ñuble,C.C.P. Chillán,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,48
+31/08/2026,Región de la Araucanía,C.C.P. Temuco,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,64
+31/08/2026,Región de Los Ríos,C.C.P. Río Bueno,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,22
+31/08/2026,Región de Tarapacá,C.C.P. Iquique,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,18
+31/08/2026,Región del Libertador Bernardo O'Higgins,C.C.P. Santa Cruz,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,12
+31/08/2026,Región de Magallanes y la Antártica Chilena,C.P. Punta Arenas,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,0,12
+31/08/2026,Región de Atacama,C.D.P. Vallenar,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,12
+31/08/2026,Región de la Araucanía,C.P.F. Temuco,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,4
+31/08/2026,Región de Los Ríos,C.C.P. Río Bueno,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,4
+31/08/2026,Región de Magallanes y la Antártica Chilena,C.P. Punta Arenas,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,4
+31/08/2026,Región de Coquimbo,C.D.P. Ovalle,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Mujer,0,4
+31/08/2026,Región de Arica y Parinacota,C.P. Arica,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,5,16
+31/08/2026,Región de Antofagasta,C.C.P. Antofagasta Conc.,Concesionada,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,12,25
+31/08/2026,Región de Coquimbo,C.P. La Serena,Concesionada,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,8,20
+31/08/2026,Región de Valparaíso,C.P. Valparaíso,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,13,40
+31/08/2026,Región del Libertador Bernardo O'Higgins,C.C.P. Rengo,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,9,36
+31/08/2026,Región del Maule,C.C.P. Cauquenes,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,12,16
+31/08/2026,Región de Los Lagos,C.P. Puerto Montt,Concesionada,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,5,36
+31/08/2026,Región de Aysén del General Carlos Ibáñez del Campo,C.D.P. Puerto Aysén,Tradicional,Población Juvenil,Condenados en Sección Juvenil,Régimen Cerrado,Hombre,1,10
+31/08/2026,Región de Arica y Parinacota,C.E.T. Arica,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Mujer,15,18
+31/08/2026,Región de Antofagasta,C.E.T. Antofagasta,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Mujer,15,15
+31/08/2026,Región de Valparaíso,C.E.T. C.P. Valparaíso,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Mujer,10,12
+31/08/2026,Región del Maule,C.E.T. Talca,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Mujer,3,6
+31/08/2026,Región del Biobío,C.E.T. Concepción,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Mujer,12,7
+31/08/2026,Región de Ñuble,C.E.T. San Carlos,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Mujer,4,5
+31/08/2026,Región de la Araucanía,C.E.T. Vilcún,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Mujer,5,2
+31/08/2026,Región de Aysén del General Carlos Ibáñez del Campo,C.E.T. Valle Verde,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Mujer,1,1
+31/08/2026,Región Metropolitana,C.E.T. Fem. Semi. Stgo.,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Mujer,59,65
+31/08/2026,Región de Los Ríos,C.E.T. Valdivia,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Mujer,7,4
+31/08/2026,Región de Arica y Parinacota,C.E.T. Arica,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Hombre,55,70
+31/08/2026,Región de Tarapacá,C.E.T. Semi. Pozo Almonte,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Hombre,17,25
+31/08/2026,Región de Antofagasta,C.E.T. Antofagasta,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Hombre,26,40
+31/08/2026,Región de Valparaíso,C.E.T. C.P. Valparaíso,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Hombre,56,63
+31/08/2026,Región de Valparaíso,C.E.T. Putaendo,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Hombre,34,45
+31/08/2026,Región de Valparaíso,C.E.T. Valparaíso,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Hombre,31,35
+31/08/2026,Región del Maule,C.E.T. Talca,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Hombre,43,66
+31/08/2026,Región del Biobío,C.E.T. Cañete,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Hombre,25,30
+31/08/2026,Región del Biobío,C.E.T. Concepción,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Hombre,63,65
+31/08/2026,Región de Ñuble,C.E.T. San Carlos,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Hombre,27,32
+31/08/2026,Región de Ñuble,C.E.T. Yungay,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Hombre,29,33
+31/08/2026,Región de la Araucanía,C.E.T. Angol,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Hombre,28,37
+31/08/2026,Región de la Araucanía,C.E.T. Victoria,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Hombre,21,21
+31/08/2026,Región de la Araucanía,C.E.T. Vilcún,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Hombre,38,58
+31/08/2026,Región de Los Ríos,C.E.T. Valdivia,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Hombre,31,40
+31/08/2026,Región de Los Lagos,C.E.T. Osorno,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Hombre,75,75
+31/08/2026,Región de Aysén del General Carlos Ibáñez del Campo,C.E.T. Valle Verde,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Hombre,14,15
+31/08/2026,Región de Magallanes y la Antártica Chilena,C.E.T. Punta Arenas,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Hombre,25,25
+31/08/2026,Región Metropolitana,C.E.T. Metropolitano,Tradicional,Condenados CET Semiabierto,Condenados en C.E.T. Semiabierto,Régimen Semiabierto,Hombre,64,65
+31/08/2026,Región de Los Lagos,C.C.P. Osorno,Tradicional,Cerrado 24 Hrs.,Salida Controlada al Medio Libre,Régimen Abierto,Hombre,6,368
+31/08/2026,Región de Magallanes y la Antártica Chilena,C.P. Punta Arenas,Tradicional,Cerrado 24 Hrs.,Salida Controlada al Medio Libre,Régimen Abierto,Hombre,12,367
+31/08/2026,Región Metropolitana,C.C.P. Colina I,Tradicional,Cerrado 24 Hrs.,Salida Controlada al Medio Libre,Régimen Abierto,Hombre,31,2056
+31/08/2026,Región Metropolitana,C.C.P. Colina II,Tradicional,Cerrado 24 Hrs.,Salida Controlada al Medio Libre,Régimen Abierto,Hombre,5,1490
+31/08/2026,Región Metropolitana,C.D.P. Puente Alto,Tradicional,Cerrado 24 Hrs.,Salida Controlada al Medio Libre,Régimen Abierto,Hombre,8,1140
+31/08/2026,Región Metropolitana,C.D.P. Stgo. Sur,Tradicional,Cerrado 24 Hrs.,Salida Controlada al Medio Libre,Régimen Abierto,Hombre,3,2384
+31/08/2026,Región de Atacama,C.C.P. Copiapó,Tradicional,Cerrado 24 Hrs.,Salida Controlada al Medio Libre,Régimen Abierto,Hombre,11,198
+31/08/2026,Región de Valparaíso,C.P. Valparaíso,Tradicional,Cerrado 24 Hrs.,Salida Controlada al Medio Libre,Régimen Abierto,Hombre,3,1720
+31/08/2026,Región del Libertador Bernardo O'Higgins,C.C.P. Santa Cruz,Tradicional,Cerrado 24 Hrs.,Salida Controlada al Medio Libre,Régimen Abierto,Hombre,4,132
+31/08/2026,Región del Maule,C.C.P. Talca,Tradicional,Cerrado 24 Hrs.,Salida Controlada al Medio Libre,Régimen Abierto,Hombre,4,476
+31/08/2026,Región del Maule,C.C.P. Cauquenes,Tradicional,Cerrado 24 Hrs.,Salida Controlada al Medio Libre,Régimen Abierto,Hombre,3,264
+31/08/2026,Región de Coquimbo,C.P. La Serena,Concesionada,Cerrado 24 Hrs.,Salida Controlada al Medio Libre,Régimen Abierto,Hombre,2,2153
+31/08/2026,Región de Atacama,C.C.P. Copiapó,Tradicional,Cerrado 24 Hrs.,Salida Controlada al Medio Libre,Régimen Abierto,Mujer,2,44
+31/08/2026,Región de la Araucanía,C.D.P. Villarrica,Tradicional,Cerrado 24 Hrs.,Salida Controlada al Medio Libre,Régimen Abierto,Hombre,2,140
+31/08/2026,Región de Magallanes y la Antártica Chilena,C.D.P. Puerto Natales,Tradicional,Cerrado 24 Hrs.,Salida Controlada al Medio Libre,Régimen Abierto,Hombre,2,46
+31/08/2026,Región de Atacama,C.D.P. Vallenar,Tradicional,Cerrado 24 Hrs.,Salida Controlada al Medio Libre,Régimen Abierto,Hombre,2,138
+31/08/2026,Región de Antofagasta,C.D.P. Taltal,Tradicional,Cerrado 24 Hrs.,Salida Controlada al Medio Libre,Régimen Abierto,Hombre,1,24
+31/08/2026,Región Metropolitana,C.P.F. Stgo.,Tradicional,Cerrado 24 Hrs.,Condenados (Falta),Régimen Cerrado,Mujer,13,949
+31/08/2026,Región de la Araucanía,C.C.P. Temuco,Tradicional,Cerrado 24 Hrs.,Condenados (Falta),Régimen Cerrado,Hombre,13,450
+31/08/2026,Región de Los Lagos,C.C.P. Osorno,Tradicional,Cerrado 24 Hrs.,Condenados (Falta),Régimen Cerrado,Hombre,6,368
+31/08/2026,Región Metropolitana,C.D.P. Puente Alto,Tradicional,Cerrado 24 Hrs.,Condenados (Falta),Régimen Cerrado,Hombre,15,1140
+31/08/2026,Región Metropolitana,C.D.P. Stgo. Sur,Tradicional,Cerrado 24 Hrs.,Condenados (Falta),Régimen Cerrado,Hombre,520,2384
+31/08/2026,Región de Atacama,C.C.P. Copiapó,Tradicional,Cerrado 24 Hrs.,Condenados (Falta),Régimen Cerrado,Hombre,31,198
+31/08/2026,Región de Coquimbo,C.P. La Serena,Concesionada,Cerrado 24 Hrs.,Condenados (Falta),Régimen Cerrado,Hombre,10,2153
+31/08/2026,Región Metropolitana,C.D.P. Puente Alto,Tradicional,Cerrado 24 Hrs.,Expulsión (Ley N°20.603),Régimen Cerrado,Hombre,24,1140
+31/08/2026,Región de Antofagasta,C.C.P. Antofagasta Conc.,Concesionada,Cerrado 24 Hrs.,Expulsión (Ley N°20.603),Régimen Cerrado,Hombre,13,1599
+31/08/2026,Región de Antofagasta,C.D.P. Calama,Tradicional,Cerrado 24 Hrs.,Expulsión (Ley N°20.603),Régimen Cerrado,Hombre,8,252
+31/08/2026,Región de Tarapacá,C.P. Alto Hospicio,Concesionada,Cerrado 24 Hrs.,Expulsión (Ley N°20.603),Régimen Cerrado,Hombre,11,2018
+31/08/2026,Región Metropolitana,C.C.P. Colina I,Tradicional,Cerrado 24 Hrs.,Procesados,Régimen Cerrado,Hombre,12,2056
+31/08/2026,Región Metropolitana,C.D.P. Stgo. Sur,Tradicional,Cerrado 24 Hrs.,Procesados,Régimen Cerrado,Hombre,6,2384
+31/08/2026,Región Metropolitana,C.P.F. San Miguel,Tradicional,Cerrado 24 Hrs.,Detenidos,Régimen Cerrado,Mujer,19,768
+31/08/2026,Región de Los Lagos,C.P. Puerto Montt,Concesionada,Cerrado 24 Hrs.,Detenidos,Régimen Cerrado,Hombre,5,1657
+31/08/2026,Región Metropolitana,C.C.P. Colina II,Tradicional,Cerrado 24 Hrs.,Detenidos,Régimen Cerrado,Hombre,20,1490
+31/08/2026,Región de Antofagasta,C.C.P. Antofagasta Conc.,Concesionada,Cerrado 24 Hrs.,Detenidos,Régimen Cerrado,Hombre,8,1599
+31/08/2026,Región de Atacama,C.C.P. Copiapó,Tradicional,Cerrado 24 Hrs.,Detenidos,Régimen Cerrado,Hombre,10,198
+31/08/2026,Región de Valparaíso,C.C.P. Los Andes,Tradicional,Cerrado 24 Hrs.,Detenidos,Régimen Cerrado,Hombre,14,204
+31/08/2026,Región de Valparaíso,C.P. Valparaíso,Tradicional,Cerrado 24 Hrs.,Detenidos,Régimen Cerrado,Hombre,24,1720
+31/08/2026,Región del Libertador Bernardo O'Higgins,C.P. Rancagua,Concesionada,Cerrado 24 Hrs.,Detenidos,Régimen Cerrado,Hombre,10,2195
+31/08/2026,Región de Tarapacá,C.P. Alto Hospicio,Concesionada,Cerrado 24 Hrs.,Detenidos,Régimen Cerrado,Hombre,12,2018
+31/08/2026,Región del Biobío,C.P. Biobío,Concesionada,Cerrado 24 Hrs.,Detenidos,Régimen Cerrado,Hombre,21,2746
+31/08/2026,Región del Maule,C.P. Talca,Concesionada,Cerrado 24 Hrs.,Detenidos,Régimen Cerrado,Hombre,8,2320
+31/08/2026,Región de Coquimbo,C.D.P. Illapel,Tradicional,Cerrado 24 Hrs.,Condenados (Falta),Régimen Cerrado,Hombre,4,116
+31/08/2026,Región Metropolitana,C.P.F. San Miguel,Tradicional,Cerrado 24 Hrs.,Expulsión (Ley N°20.603),Régimen Cerrado,Mujer,3,768
+31/08/2026,Región Metropolitana,C.D.P. Stgo. Sur,Tradicional,Cerrado 24 Hrs.,Procesados,Régimen Cerrado,Mujer,3,0
+31/08/2026,Región de Coquimbo,C.P. La Serena,Concesionada,Cerrado 24 Hrs.,Condenados (Falta),Régimen Cerrado,Mujer,3,145
+31/08/2026,Región de Atacama,C.C.P. Copiapó,Tradicional,Cerrado 24 Hrs.,Expulsión (Ley N°20.603),Régimen Cerrado,Hombre,3,198
+31/08/2026,Región de Coquimbo,C.D.P. Ovalle,Tradicional,Cerrado 24 Hrs.,Condenados (Falta),Régimen Cerrado,Hombre,3,146
+31/08/2026,Región de Tarapacá,C.P. Alto Hospicio,Concesionada,Cerrado 24 Hrs.,Detenidos,Régimen Cerrado,Mujer,3,333
+31/08/2026,Región de Los Ríos,C.P. Valdivia,Concesionada,Cerrado 24 Hrs.,Detenidos,Régimen Cerrado,Hombre,3,1662
+31/08/2026,Región del Maule,C.C.P. Talca,Tradicional,Cerrado 24 Hrs.,Detenidos,Régimen Cerrado,Hombre,3,476
+31/08/2026,Región del Biobío,C.P. Biobío,Concesionada,Cerrado 24 Hrs.,Detenidos,Régimen Cerrado,Mujer,3,288
+31/08/2026,Región de Los Lagos,C.C.P. Osorno,Tradicional,Cerrado 24 Hrs.,Condenados (Falta),Régimen Cerrado,Mujer,2,30
+31/08/2026,Región de Atacama,C.C.P. Copiapó,Tradicional,Cerrado 24 Hrs.,Condenados (Falta),Régimen Cerrado,Mujer,2,44
+31/08/2026,Región de Los Ríos,C.P. Valdivia,Concesionada,Cerrado 24 Hrs.,Condenados (Falta),Régimen Cerrado,Hombre,2,1662
+31/08/2026,Región Metropolitana,C.D.P. Talagante,Tradicional,Cerrado 24 Hrs.,Condenados (Falta),Régimen Cerrado,Hombre,2,198
+31/08/2026,Región de Arica y Parinacota,C.P. Arica,Tradicional,Cerrado 24 Hrs.,Condenados (Falta),Régimen Cerrado,Hombre,2,1952
+31/08/2026,Región de Los Lagos,C.P. Puerto Montt,Concesionada,Cerrado 24 Hrs.,Expulsión (Ley N°20.603),Régimen Cerrado,Hombre,2,1657
+31/08/2026,Región de Coquimbo,C.P. La Serena,Concesionada,Cerrado 24 Hrs.,Expulsión (Ley N°20.603),Régimen Cerrado,Hombre,2,2153
+31/08/2026,Región del Maule,C.C.P. Curicó,Tradicional,Cerrado 24 Hrs.,Expulsión (Ley N°20.603),Régimen Cerrado,Hombre,2,284
+31/08/2026,Región de Los Lagos,C.C.P. Osorno,Tradicional,Cerrado 24 Hrs.,Detenidos,Régimen Cerrado,Hombre,2,368
+31/08/2026,Región de Atacama,C.C.P. Chañaral,Tradicional,Cerrado 24 Hrs.,Detenidos,Régimen Cerrado,Hombre,2,110
+31/08/2026,Región de Coquimbo,C.P. La Serena,Concesionada,Cerrado 24 Hrs.,Detenidos,Régimen Cerrado,Hombre,2,2153
+31/08/2026,Región de Antofagasta,C.D.P. Taltal,Tradicional,Cerrado 24 Hrs.,Expulsión (Ley N°20.603),Régimen Cerrado,Hombre,1,24
+31/08/2026,Región de Antofagasta,C.D.P. Tocopilla,Tradicional,Cerrado 24 Hrs.,Expulsión (Ley N°20.603),Régimen Cerrado,Hombre,1,192
+31/08/2026,Región de Atacama,C.C.P. Chañaral,Tradicional,Cerrado 24 Hrs.,Expulsión (Ley N°20.603),Régimen Cerrado,Hombre,1,110
+31/08/2026,Región de Atacama,C.D.P. Vallenar,Tradicional,Cerrado 24 Hrs.,Expulsión (Ley N°20.603),Régimen Cerrado,Hombre,1,138
+31/08/2026,Región de Antofagasta,C.P.F. Antofagasta,Tradicional,Cerrado 24 Hrs.,Detenidos,Régimen Cerrado,Mujer,1,100
+31/08/2026,Región de Valparaíso,C.C.P. Los Andes,Tradicional,Cerrado 24 Hrs.,Detenidos,Régimen Cerrado,Mujer,1,50
+31/08/2026,Región del Biobío,C.D.P. Yumbel,Tradicional,Cerrado 24 Hrs.,Detenidos,Régimen Cerrado,Hombre,1,94
+31/08/2026,Región de Aysén del General Carlos Ibáñez del Campo,C.D.P. Puerto Aysén,Tradicional,Cerrado 24 Hrs.,Detenidos,Régimen Cerrado,Hombre,1,106
+31/08/2026,Región Metropolitana,C.D.P. Puente Alto,Tradicional,Cerrado 24 Hrs.,Detenidos,Régimen Cerrado,Hombre,1,1140
+31/08/2026,Región del Maule,C.C.P. Linares,Tradicional,Cerrado 24 Hrs.,Detenidos,Régimen Cerrado,Hombre,1,200
+31/08/2026,Región de la Araucanía,C.D.P. Pitrufquén,Tradicional,Cerrado 24 Hrs.,Condenados (Falta),Régimen Cerrado,Hombre,1,110
+31/08/2026,Región de Los Lagos,C.D.P. Castro,Tradicional,Cerrado 24 Hrs.,Condenados (Falta),Régimen Cerrado,Hombre,1,82
+31/08/2026,Región del Maule,C.C.P. Talca,Tradicional,Cerrado 24 Hrs.,Condenados (Falta),Régimen Cerrado,Hombre,1,476
+31/08/2026,Región de Ñuble,C.C.P. Chillán,Tradicional,Cerrado 24 Hrs.,Condenados (Falta),Régimen Cerrado,Hombre,1,414
+31/08/2026,Región del Biobío,C.D.P. Arauco,Tradicional,Cerrado 24 Hrs.,Condenados (Falta),Régimen Cerrado,Hombre,1,136
+31/08/2026,Región de Los Ríos,C.P. Valdivia,Concesionada,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Mujer,35,85
+31/08/2026,Región de Los Lagos,C.P. Puerto Montt,Concesionada,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Mujer,41,50
+31/08/2026,Región de Tarapacá,C.P. Alto Hospicio,Concesionada,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Mujer,300,333
+31/08/2026,Región de Antofagasta,C.C.P. Antofagasta Conc.,Concesionada,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Mujer,2,0
+31/08/2026,Región de Coquimbo,C.P. La Serena,Concesionada,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Mujer,33,145
+31/08/2026,Región de Los Ríos,C.P. Valdivia,Concesionada,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,356,1662
+31/08/2026,Región de Los Lagos,C.P. Puerto Montt,Concesionada,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,466,1657
+31/08/2026,Región Metropolitana,C.D.P. Stgo. I,Concesionada,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,6942,4000
+31/08/2026,Región de Antofagasta,C.C.P. Antofagasta Conc.,Concesionada,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,725,1599
+31/08/2026,Región de Coquimbo,C.P. La Serena,Concesionada,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,419,2153
+31/08/2026,Región del Libertador Bernardo O'Higgins,C.P. Rancagua,Concesionada,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,982,2195
+31/08/2026,Región de Tarapacá,C.P. Alto Hospicio,Concesionada,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,1024,2018
+31/08/2026,Región del Biobío,C.P. Biobío,Concesionada,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,1241,2746
+31/08/2026,Región del Maule,C.P. Talca,Concesionada,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,385,2320
+31/08/2026,Región del Biobío,C.P. Biobío,Concesionada,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Mujer,164,288
+31/08/2026,Región del Maule,C.C.P. Cauquenes,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Mujer,9,22
+31/08/2026,Región del Maule,C.P.F. Talca,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Mujer,95,104
+31/08/2026,Región del Biobío,C.D.P. Arauco,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Mujer,9,12
+31/08/2026,Región de la Araucanía,C.D.P. Angol,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Mujer,18,16
+31/08/2026,Región de la Araucanía,C.D.P. Villarrica,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Mujer,16,20
+31/08/2026,Región de la Araucanía,C.P.F. Temuco,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Mujer,37,48
+31/08/2026,Región de Los Lagos,C.C.P. Osorno,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Mujer,9,30
+31/08/2026,Región de Aysén del General Carlos Ibáñez del Campo,C.C.P. Coyhaique,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Mujer,1,8
+31/08/2026,Región de Magallanes y la Antártica Chilena,C.D.P. Puerto Natales,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Mujer,2,4
+31/08/2026,Región de Magallanes y la Antártica Chilena,C.P. Punta Arenas,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Mujer,24,38
+31/08/2026,Región Metropolitana,C.P.F. San Miguel,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Mujer,1171,768
+31/08/2026,Región Metropolitana,C.D.P. Stgo. Sur,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Mujer,5,0
+31/08/2026,Región Metropolitana,C.P.F. Stgo.,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Mujer,21,949
+31/08/2026,Región de Antofagasta,C.D.P. Calama,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Mujer,47,44
+31/08/2026,Región de Antofagasta,C.D.P. Tocopilla,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Mujer,12,22
+31/08/2026,Región de Antofagasta,C.P.F. Antofagasta,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Mujer,80,100
+31/08/2026,Región de Atacama,C.C.P. Copiapó,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Mujer,35,44
+31/08/2026,Región de Atacama,C.D.P. Vallenar,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Mujer,11,14
+31/08/2026,Región de Coquimbo,C.D.P. Illapel,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Mujer,6,10
+31/08/2026,Región de Coquimbo,C.D.P. Ovalle,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Mujer,6,18
+31/08/2026,Región de Valparaíso,C.C.P. Los Andes,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Mujer,14,50
+31/08/2026,Región de Valparaíso,C.C.P. San Antonio,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Mujer,27,24
+31/08/2026,Región de Valparaíso,C.D.P. Quillota,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Mujer,30,70
+31/08/2026,Región de Valparaíso,C.P. Valparaíso,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Mujer,50,144
+31/08/2026,Región de Valparaíso,S.C. Isla de Pascua,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Mujer,1,0
+31/08/2026,Región del Libertador Bernardo O'Higgins,C.C.P. Santa Cruz,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Mujer,7,12
+31/08/2026,Región de Arica y Parinacota,C.P.F. Arica,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Mujer,70,384
+31/08/2026,Región de Ñuble,C.P.F. Bulnes,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Mujer,36,104
+31/08/2026,Región de Arica y Parinacota,C.P. Arica,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Mujer,1,0
+31/08/2026,Región de Tarapacá,C.C.P. Iquique,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Mujer,21,464
+31/08/2026,Región de Ñuble,C.D.P. San Carlos,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,25,66
+31/08/2026,Región del Biobío,C.D.P. Yumbel,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,58,94
+31/08/2026,Región de Ñuble,C.D.P. Yungay,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,31,66
+31/08/2026,Región de Los Lagos,C.C.P. Osorno,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,168,368
+31/08/2026,Región de Los Lagos,C.D.P. Ancud,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,6,54
+31/08/2026,Región de Los Lagos,C.D.P. Castro,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,51,82
+31/08/2026,Región de Aysén del General Carlos Ibáñez del Campo,C.C.P. Coyhaique,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,38,88
+31/08/2026,Región de Aysén del General Carlos Ibáñez del Campo,C.D.P. Puerto Aysén,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,23,106
+31/08/2026,Región de Magallanes y la Antártica Chilena,C.D.P. Porvenir,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,5,30
+31/08/2026,Región de Magallanes y la Antártica Chilena,C.D.P. Puerto Natales,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,20,46
+31/08/2026,Región de Magallanes y la Antártica Chilena,C.P. Punta Arenas,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,97,367
+31/08/2026,Región de Arica y Parinacota,C.P. Arica,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,437,1952
+31/08/2026,Región de Antofagasta,C.D.P. Calama,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,332,252
+31/08/2026,Región de Antofagasta,C.D.P. Tocopilla,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,72,192
+31/08/2026,Región de Atacama,C.C.P. Chañaral,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,32,110
+31/08/2026,Región de Atacama,C.C.P. Copiapó,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,291,198
+31/08/2026,Región de Atacama,C.D.P. Vallenar,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,59,138
+31/08/2026,Región de Coquimbo,C.D.P. Illapel,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,66,116
+31/08/2026,Región de Coquimbo,C.D.P. Ovalle,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,100,146
+31/08/2026,Región del Libertador Bernardo O'Higgins,C.C.P. Santa Cruz,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,82,132
+31/08/2026,Región de Ñuble,C.C.P. Chillán,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,215,414
+31/08/2026,Región del Biobío,C.D.P. Arauco,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,47,136
+31/08/2026,Región del Biobío,C.D.P. Mulchén,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,50,96
+31/08/2026,Región Metropolitana,C.C.P. Colina II,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,610,1490
+31/08/2026,Región Metropolitana,C.D.P. Puente Alto,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,812,1140
+31/08/2026,Región Metropolitana,C.D.P. Stgo. Sur,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,463,2384
+31/08/2026,Región Metropolitana,C.D.P. Talagante,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,260,198
+31/08/2026,Región Metropolitana,R.E.P.A.S.,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,67,296
+31/08/2026,Región de Aysén del General Carlos Ibáñez del Campo,C.D.P. Cochrane,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,2,24
+31/08/2026,Región de Antofagasta,C.D.P. Taltal,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,19,24
+31/08/2026,Región del Maule,C.C.P. Cauquenes,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,117,264
+31/08/2026,Región del Maule,C.C.P. Curicó,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,261,284
+31/08/2026,Región del Maule,C.C.P. Linares,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,137,200
+31/08/2026,Región del Maule,C.C.P. Parral,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,82,72
+31/08/2026,Región de Tarapacá,C.D.P. Pozo Almonte,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,49,102
+31/08/2026,Región del Libertador Bernardo O'Higgins,C.D.P. Peumo,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,24,102
+31/08/2026,Región del Biobío,C.D.P. Lebu,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,36,102
+31/08/2026,Región de Valparaíso,C.C.P. Los Andes,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,139,204
+31/08/2026,Región de Valparaíso,C.C.P. San Antonio,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,168,216
+31/08/2026,Región de Valparaíso,C.D.P. Casablanca,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,22,70
+31/08/2026,Región de Valparaíso,C.D.P. Limache,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,38,84
+31/08/2026,Región de Valparaíso,C.D.P. Petorca,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,15,40
+31/08/2026,Región de Valparaíso,C.D.P. Quillota,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,192,258
+31/08/2026,Región de Valparaíso,C.P. Valparaíso,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,765,1720
+31/08/2026,Región de Valparaíso,S.C. Isla de Pascua,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,14,32
+31/08/2026,Región de la Araucanía,C.C.P. Lautaro,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,44,114
+31/08/2026,Región de la Araucanía,C.C.P. Nueva Imperial,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,46,136
+31/08/2026,Región de la Araucanía,C.C.P. Temuco,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,360,450
+31/08/2026,Región de la Araucanía,C.C.P. Victoria,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,36,136
+31/08/2026,Región de la Araucanía,C.D.P. Angol,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,141,246
+31/08/2026,Región de la Araucanía,C.D.P. Curacautín,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,23,70
+31/08/2026,Región de la Araucanía,C.D.P. Pitrufquén,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,43,110
+31/08/2026,Región de la Araucanía,C.D.P. Traiguén,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,40,116
+31/08/2026,Región de la Araucanía,C.D.P. Villarrica,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,108,140
+31/08/2026,Región de la Araucanía,C.P.F. Temuco,Tradicional,Cerrado 24 Hrs.,Imputados,Régimen Cerrado,Hombre,1,0
+31/08/2026,Región de Los Ríos,C.P. Valdivia,Concesionada,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,89,85
+31/08/2026,Región de Los Lagos,C.P. Puerto Montt,Concesionada,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,76,50
+31/08/2026,Región de Tarapacá,C.P. Alto Hospicio,Concesionada,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,20,333
+31/08/2026,Región de Antofagasta,C.C.P. Antofagasta Conc.,Concesionada,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,4,0
+31/08/2026,Región de Coquimbo,C.P. La Serena,Concesionada,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,117,145
+31/08/2026,Región de Los Ríos,C.P. Valdivia,Concesionada,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,1274,1662
+31/08/2026,Región de Los Lagos,C.P. Puerto Montt,Concesionada,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,1436,1657
+31/08/2026,Región de Antofagasta,C.C.P. Antofagasta Conc.,Concesionada,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,1465,1599
+31/08/2026,Región de Coquimbo,C.P. La Serena,Concesionada,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,2087,2153
+31/08/2026,Región del Libertador Bernardo O'Higgins,C.P. Rancagua,Concesionada,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,1636,2195
+31/08/2026,Región de Tarapacá,C.P. Alto Hospicio,Concesionada,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,1904,2018
+31/08/2026,Región del Biobío,C.P. Biobío,Concesionada,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,2164,2746
+31/08/2026,Región del Maule,C.P. Talca,Concesionada,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,1553,2320
+31/08/2026,Región del Biobío,C.P. Biobío,Concesionada,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,144,288
+31/08/2026,Región del Maule,C.C.P. Cauquenes,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,41,22
+31/08/2026,Región del Maule,C.C.P. Parral,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,24,24
+31/08/2026,Región del Maule,C.P.F. Talca,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,127,104
+31/08/2026,Región del Biobío,C.D.P. Arauco,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,14,12
+31/08/2026,Región de la Araucanía,C.D.P. Angol,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,30,16
+31/08/2026,Región de la Araucanía,C.D.P. Villarrica,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,18,20
+31/08/2026,Región de la Araucanía,C.P.F. Temuco,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,66,48
+31/08/2026,Región de Los Lagos,C.C.P. Osorno,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,26,30
+31/08/2026,Región de Aysén del General Carlos Ibáñez del Campo,C.C.P. Coyhaique,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,3,8
+31/08/2026,Región de Magallanes y la Antártica Chilena,C.D.P. Puerto Natales,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,1,4
+31/08/2026,Región de Magallanes y la Antártica Chilena,C.P. Punta Arenas,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,16,38
+31/08/2026,Región Metropolitana,C.P.F. San Miguel,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,7,768
+31/08/2026,Región Metropolitana,C.P.F. Stgo.,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,811,949
+31/08/2026,Región de Antofagasta,C.D.P. Calama,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,28,44
+31/08/2026,Región de Antofagasta,C.D.P. Tocopilla,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,52,22
+31/08/2026,Región de Antofagasta,C.P.F. Antofagasta,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,140,100
+31/08/2026,Región de Atacama,C.C.P. Copiapó,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,47,44
+31/08/2026,Región de Atacama,C.D.P. Vallenar,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,3,14
+31/08/2026,Región de Coquimbo,C.D.P. Illapel,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,7,10
+31/08/2026,Región de Coquimbo,C.D.P. Ovalle,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,10,18
+31/08/2026,Región del Libertador Bernardo O'Higgins,C.C.P. Santa Cruz,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,7,12
+31/08/2026,Región de Arica y Parinacota,C.P.F. Arica,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,132,384
+31/08/2026,Región de Ñuble,C.P.F. Bulnes,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,56,104
+31/08/2026,Región de Tarapacá,C.C.P. Iquique,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,265,464
+31/08/2026,Región de Valparaíso,C.C.P. Los Andes,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,36,50
+31/08/2026,Región de Valparaíso,C.C.P. San Antonio,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,29,24
+31/08/2026,Región de Valparaíso,C.D.P. Quillota,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,49,70
+31/08/2026,Región de Valparaíso,C.P. Valparaíso,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,150,144
+31/08/2026,Región de Aysén del General Carlos Ibáñez del Campo,C.D.P. Puerto Aysén,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,8,0
+31/08/2026,Región de Arica y Parinacota,C.P. Arica,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Mujer,5,0
+31/08/2026,Región de Los Ríos,C.C.P. Río Bueno,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,90,61
+31/08/2026,Región de Los Lagos,C.C.P. Osorno,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,311,368
+31/08/2026,Región de Los Lagos,C.D.P. Ancud,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,67,54
+31/08/2026,Región de Los Lagos,C.D.P. Castro,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,134,82
+31/08/2026,Región de Aysén del General Carlos Ibáñez del Campo,C.C.P. Coyhaique,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,126,88
+31/08/2026,Región de Aysén del General Carlos Ibáñez del Campo,C.D.P. Puerto Aysén,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,114,106
+31/08/2026,Región de Magallanes y la Antártica Chilena,C.D.P. Porvenir,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,19,30
+31/08/2026,Región de Magallanes y la Antártica Chilena,C.D.P. Puerto Natales,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,30,46
+31/08/2026,Región de Magallanes y la Antártica Chilena,C.P. Punta Arenas,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,376,367
+31/08/2026,Región de Arica y Parinacota,C.P. Arica,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,1806,1952
+31/08/2026,Región de Antofagasta,C.D.P. Calama,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,267,252
+31/08/2026,Región de Antofagasta,C.D.P. Tocopilla,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,402,192
+31/08/2026,Región de Atacama,C.C.P. Chañaral,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,62,110
+31/08/2026,Región de Atacama,C.C.P. Copiapó,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,297,198
+31/08/2026,Región de Atacama,C.D.P. Vallenar,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,211,138
+31/08/2026,Región de Coquimbo,C.D.P. Illapel,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,101,116
+31/08/2026,Región de Coquimbo,C.D.P. Ovalle,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,191,146
+31/08/2026,Región del Libertador Bernardo O'Higgins,C.C.P. Rengo,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,120,116
+31/08/2026,Región del Libertador Bernardo O'Higgins,C.C.P. Santa Cruz,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,209,132
+31/08/2026,Región del Libertador Bernardo O'Higgins,C.D.P. Peumo,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,153,102
+31/08/2026,Región de Ñuble,C.D.P. San Carlos,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,86,66
+31/08/2026,Región de Ñuble,C.D.P. Yungay,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,86,66
+31/08/2026,Región de Ñuble,C.C.P. Chillán,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,375,414
+31/08/2026,Región de Ñuble,C.D.P. Quirihue,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,73,78
+31/08/2026,Región del Biobío,C.D.P. Yumbel,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,113,94
+31/08/2026,Región del Biobío,C.D.P. Arauco,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,106,136
+31/08/2026,Región del Biobío,C.D.P. Lebu,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,106,102
+31/08/2026,Región del Biobío,C.D.P. Mulchén,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,112,96
+31/08/2026,Región de Aysén del General Carlos Ibáñez del Campo,C.D.P. Chile Chico,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,30,24
+31/08/2026,Región de Aysén del General Carlos Ibáñez del Campo,C.D.P. Cochrane,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,10,24
+31/08/2026,Región de Antofagasta,C.D.P. Taltal,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,93,24
+31/08/2026,Región del Maule,C.C.P. Talca,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,479,476
+31/08/2026,Región del Maule,C.C.P. Cauquenes,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,383,264
+31/08/2026,Región del Maule,C.C.P. Curicó,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,335,284
+31/08/2026,Región del Maule,C.C.P. Linares,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,281,200
+31/08/2026,Región del Maule,C.C.P. Molina,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,117,96
+31/08/2026,Región del Maule,C.C.P. Parral,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,94,72
+31/08/2026,Región del Maule,C.D.P. Chanco,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,6,46
+31/08/2026,Región Metropolitana,C.C.P. Colina I,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,2502,2056
+31/08/2026,Región Metropolitana,C.C.P. Colina II,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,1773,1490
+31/08/2026,Región Metropolitana,C.C.P. Tiltil,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,163,167
+31/08/2026,Región Metropolitana,C.D.P. Puente Alto,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,960,1140
+31/08/2026,Región Metropolitana,C.D.P. Stgo. Sur,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,5609,2384
+31/08/2026,Región Metropolitana,C.D.P. Talagante,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,219,198
+31/08/2026,Región Metropolitana,R.E.P.A.S.,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,49,296
+31/08/2026,Región de Valparaíso,C.C.P. Los Andes,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,268,204
+31/08/2026,Región de Valparaíso,C.C.P. San Antonio,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,194,216
+31/08/2026,Región de Valparaíso,C.D.P. Casablanca,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,86,70
+31/08/2026,Región de Valparaíso,C.D.P. Limache,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,171,84
+31/08/2026,Región de Valparaíso,C.D.P. Petorca,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,61,40
+31/08/2026,Región de Valparaíso,C.D.P. Quillota,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,321,258
+31/08/2026,Región de Valparaíso,C.P. Valparaíso,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,2333,1720
+31/08/2026,Región de Valparaíso,S.C. Isla de Pascua,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,5,32
+31/08/2026,Región de la Araucanía,C.C.P. Lautaro,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,155,114
+31/08/2026,Región de la Araucanía,C.C.P. Nueva Imperial,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,173,136
+31/08/2026,Región de la Araucanía,C.C.P. Temuco,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,510,450
+31/08/2026,Región de la Araucanía,C.C.P. Victoria,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,116,136
+31/08/2026,Región de la Araucanía,C.D.P. Angol,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,403,246
+31/08/2026,Región de la Araucanía,C.C.P. Collipulli,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,105,74
+31/08/2026,Región de la Araucanía,C.D.P. Curacautín,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,70,70
+31/08/2026,Región de la Araucanía,C.D.P. Pitrufquén,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,170,110
+31/08/2026,Región de la Araucanía,C.D.P. Traiguén,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,148,116
+31/08/2026,Región de la Araucanía,C.D.P. Villarrica,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,208,140
+31/08/2026,Región de la Araucanía,C.P.F. Temuco,Tradicional,Cerrado 24 Hrs.,Condenados (Privados de Libertad 24 Hrs.),Régimen Cerrado,Hombre,1,0

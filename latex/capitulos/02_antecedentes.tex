@@ -1,22 +1,57 @@
-\section{Antecedentes Empíricos y Marco Conceptual}
+\section{Importancia del proyecto en base al contexto y la evidencia}
 
-\subsection{Contexto Empírico de la Reinserción en Chile}
-La literatura y la evidencia administrativa convergen en que el empleo formal constituye el principal factor protector contra la reincidencia delictiva. \parencite{CITAR BIBLIOGRAFÍA} 
+\subsection{Breve contexto de la Reinserción en Chile}
+La literatura especializada y la evidencia administrativa coinciden en que el empleo formal constituye el principal factor protector contra la reincidencia delictiva. En Chile, la reinserción social se concibe como un proceso sistemático e interinstitucional en el que convergen el Estado, la sociedad civil y el sector privado con el objetivo de integrar a personas condenadas e infractoras de ley, reducir los índices de reincidencia y fomentar conductas prosociales.
 
-Sin embargo, las personas que egresan del sistema penitenciario enfrentan un entorno de contratación severamente restringido por estigmas culturales, exigencias legales (como los certificados de antecedentes) y barreras procedimentales en las áreas de gestión de personas.
+La estructura institucional de este sistema reposa sobre tres pilares fundamentales:
+\begin{itemize}
+    \item \textbf{Servicio Nacional de Reinserción Social Juvenil (SNRSJ):} Creado mediante la Ley N° 21.527 para reemplazar de forma gradual al Servicio Nacional de Menores (SENAME) en la atención de jóvenes de entre 14 y 18 años, operando bajo un modelo descentralizado, altamente especializado y con enfoque garantista \parencite{Ley21527CreaElServicioNacionalDeReinsercionJuvenil}.
+    \item \textbf{Gendarmería de Chile:} Organismo responsable de ejecutar programas de intervención psicosocial criminológica y de empleabilidad para adultos, mediante capacitación en oficios, alianzas de intermediación laboral (como el programa +R) y la comercialización de productos fabricados en recintos penitenciarios a través de plataformas como REHACE \parencite{EstadisticaGeneralPenitenciaria2026}.
+    \item \textbf{Articulación Público-Privada:} Redes de colaboración estratégica como \textit{Juntos por la Reinserción} (JxR), que agrupan a fundaciones, gremios y empresas para facilitar procesos sostenibles de capacitación y colocación laboral para personas con antecedentes penales.
+\end{itemize}
 
-En el caso de las mujeres privadas de libertad, la brecha de inserción se intensifica por dinámicas de doble penalización: la estigmatización social asociada al quebrantamiento de la ley y las cargas no remuneradas de cuidado familiar. 
+Sin embargo, las personas que egresan del sistema penitenciario enfrentan un entorno de contratación severamente restringido por estigmas culturales, exigencias legales (como la presentación del certificado de antecedentes penales) y barreras procedimentales en las áreas de gestión de personas. En el caso de las mujeres privadas de libertad, la brecha de inserción se intensifica por dinámicas de doble penalización: la estigmatización social asociada al quebrantamiento de la norma de género y las severas cargas no remuneradas de cuidado familiar \parencite{CaracterizacionPersonasPrivadas2026}.
 
-\subsection{Cadena de Decisiones Organizacionales (Marco Causal)}
-Para abordar el proceso de contratación sin reducirlo a un acto bivariado o declarativo, este estudio adopta el modelo conceptual de la \textbf{Cadena de 5 Decisiones Organizacionales}:
+\subsection{Población Atendida y Caracterización del Sistema Penitenciario}
+Según la Estadística General Penitenciaria de Gendarmería de Chile, el sistema atiende a un total de 162.043 personas a nivel nacional, compuestas por un 88,2\% de hombres y un 11,8\% de mujeres \parencite{EstadisticaGeneralPenitenciaria2026}. Esta población se distribuye en tres subsistemas operativos:
 
-\begin{enumerate}
-    \item \textbf{Conocer:} Grado de conocimiento declarativo e institucional sobre la Fundación JxR y sus programas.
-    \item \textbf{Considerar:} Disposición explícita o implícita a evaluar perfiles con antecedentes penales en procesos de selección.
-    \item \textbf{Contratar:} Apertura de vacantes concretas y formalización de contratos de trabajo.
-    \item \textbf{Implementar:} Adaptación de procesos de inducción, clima organizacional y protocolos internos de acompañamiento.
-    \item \textbf{Permanecer:} Tasa de retención laboral observada superior a los 90 días críticos de incorporación.
-\end{enumerate}
+\begin{table}[h!]
+\centering
+\caption{Distribución de la Población Penal Atendida por Subsistema y Sexo}
+\label{tab:poblacion_penal}
+\vspace{0.2cm}
+\small
+\begin{tabular}{lrrr}
+\toprule
+\textbf{Subsistema Operativo} & \textbf{Hombres} & \textbf{Mujeres} & \textbf{Total Atendidos} \\
+\midrule
+Subsistema Cerrado (Recintos Penitenciarios) & 61.405 & 5.615 & 67.020 \\
+Subsistema Abierto (Penas Sustitutivas) & 62.704 & 10.683 & 73.387 \\
+Subsistema Postpenitenciario & 18.766 & 2.870 & 21.636 \\
+\midrule
+\textbf{Total General} & \textbf{142.875} & \textbf{19.168} & \textbf{162.043} \\
+\bottomrule
+\end{tabular}
+\end{table}
 
-\subsection{Evidencia Administrativa Interna de JxR (Fase 0)}
-La investigación toma como punto de partida la riqueza de datos generada por la propia Fundación JxR. El análisis sistemático de los registros de más de 140 colocaciones históricas y el seguimiento semanal durante el trimestre inicial permite construir estimaciones longitudinales de retención mediante análisis de supervivencia (curvas de Kaplan-Meier), fijando la línea base empírica sobre la cual se modelarán los incentivos empresariales.
+\subsubsection{Radiografía de las Personas Privadas de Libertad (Régimen Cerrado)}
+En el régimen cerrado, la población efectivamente recluida supera las 65.000 personas \parencite{CaracterizacionPersonasPrivadas2026}. Este volumen de reclusión ha llevado a las autoridades a alertar sobre niveles críticos de hacinamiento, con un promedio nacional de ocupación que ronda el 130\% y unidades penales de alta densidad que alcanzan hasta un 200\% de su capacidad nominal \parencite{EstadisticaGeneralPenitenciaria2026}.
+
+El perfil demográfico y procesal de las personas privadas de libertad en recintos cerrados presenta los siguientes rasgos estructurales \parencite{CaracterizacionPersonasPrivadas2026}:
+\begin{itemize}
+    \item \textbf{Calidad Procesal:} El 65,6\% de la población cumple condena efectiva, mientras que el 34,4\% se encuentra en calidad de imputada o procesada.
+    \item \textbf{Nacionalidad:} El 83,8\% es de nacionalidad chilena y el 16,2\% corresponde a población extranjera (con predominio de ciudadanos de origen venezolano).
+    \item \textbf{Edad y Etnicidad:} El tramo etario con mayor frecuencia se sitúa entre los 25 y los 29 años. En términos de pueblos originarios, la etnia Mapuche representa la mayor proporción de reclusos pertenecientes a personas indígenas.
+    \item \textbf{Nivel Educacional y Reincidencia:} El 86\% de las personas en régimen cerrado no cuenta con la enseñanza media completa y la edad promedio bordea los 35 años. La tasa de reincidencia delictiva estimada alcanza un 43,2\%, concentrándose principalmente en delitos contra la propiedad \parencite{CompendiosEstadisticos2026}.
+    \item \textbf{Eficiencia Presupuestaria:} El costo fiscal de mantener a una persona privada de libertad en el sistema cerrado asciende aproximadamente a \$800.000 CLP mensuales, mientras que los programas de intermediación y acompañamiento laboral en el medio libre (sistema abierto) requieren una inversión cinco veces menor por usuario \parencite{CompendiosEstadisticos2026}.
+\end{itemize}
+
+\subsubsection{Reinserción Social Juvenil y Tendencias de Criminalidad}
+En el ámbito infractor juvenil, la implementación del Servicio Nacional de Reinserción Social Juvenil (SNRSJ) reportó durante el primer semestre de 2025 la atención de 4.422 jóvenes a nivel nacional, de los cuales el 93\% corresponde a hombres y el 93\% es de nacionalidad chilena \parencite{Ley21527CreaElServicioNacionalDeReinsercionJuvenil}. Este modelo se fundamenta en programas especializados de intervención psicosocial y mecanismos de compra pública a organismos externos acreditados.
+
+Por su parte, el contexto nacional de criminalidad analizado a través del Centro de Estudios y Análisis del Delito (CEAD) muestra que en 2025 se registraron 1.158 víctimas consumadas de homicidio, consolidando una tasa de 5,7 por cada 100.000 habitantes (una baja del 4,1\% respecto a 2024 y el tercer año consecutivo de descenso) \parencite{InformesEstadisticosCEAD2026}. A pesar de esta tendencia a la baja en delitos violentos graves confirmada durante 2026, la Encuesta Nacional Urbana de Seguridad Ciudadana (ENUSC) señala una victimización del 23,5\% de los hogares y un máximo histórico en la percepción de inseguridad ciudadana del 56,6\% \parencite{ENUSC2025}. Esta brecha entre victimización real y percepción amplifica el estigma social hacia las personas que han cumplido condena.
+
+\subsection{Problematización y Justificación del Estudio}
+Los estudios tradicionales de mercado orientados a la inclusión social suelen sufrir de un sesgo crítico: la \textbf{deseabilidad social declarativa}. Cuando se le pregunta directamente a un decisor gerencial si contrataría a una persona con antecedentes o si discrimina a una mujer, la respuesta suele alinearse con la corrección política, ocultando las tasas reales de veto implícito.
+
+Asimismo, existe una desconexión entre la oferta de programas sociales y la estructura de incentivos y riesgos de las empresas según su tamaño (micro, pyme, grande, corporación) y sector económico. Es fundamental precisar empíricamente qué atributos de la oferta de JxR (acompañamiento, nivel técnico, certificaciones CET/OTEC, reducción de riesgo) mitigan eficazmente la resistencia directiva.

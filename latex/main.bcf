@@ -3071,10 +3071,22 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">../refs/references.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">INFORME GENDARMERÍA DE CHILE</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">Elias2020</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">CITAR BIBLIOGRAFÍA</bcf:citekey>
-    <bcf:citekey order="4" intorder="1" nocite="1">*</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">CaracterizacionPersonasPrivadas2026</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">Ley21527CreaElServicioNacionalDeReinsercionJuvenil</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">EstadisticaGeneralPenitenciaria2026</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">CaracterizacionPersonasPrivadas2026</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">EstadisticaGeneralPenitenciaria2026</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">CaracterizacionPersonasPrivadas2026</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">EstadisticaGeneralPenitenciaria2026</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">CaracterizacionPersonasPrivadas2026</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">CompendiosEstadisticos2026</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">CompendiosEstadisticos2026</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">Ley21527CreaElServicioNacionalDeReinsercionJuvenil</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">InformesEstadisticosCEAD2026</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">ENUSC2025</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">Ley19628SobreProteccionDeLaVidaPrivada</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">Ley20285SobreAccesoALaInformacionPublica</bcf:citekey>
+    <bcf:citekey order="16" intorder="1" nocite="1">*</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
