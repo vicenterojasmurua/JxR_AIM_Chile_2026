@@ -1,25 +1,33 @@
 \begin{titlepage}
-    \pagenumbering{gobble} % Desactiva la numeración en la portada para corregir el warning de pdfTeX
+    \pagenumbering{gobble} % Desactiva la numeración en la portada
     \centering
-    \vspace*{0.5cm}
+    \vspace*{0.2cm}
 
-    % Logo Institucional / Proyecto
-    \includegraphics[width=4cm]{logo-sociales.png}
-    \vspace{1cm}
+    % Logos alineados: el central en el centro exacto de la página
+    \noindent
+    \makebox[0.333\textwidth][l]{\includegraphics[height=1.6cm]{logo-sociales.png}}%
+    \makebox[0.333\textwidth][c]{\includegraphics[height=1.6cm]{aimchile_logo.png}}%
+    \makebox[0.333\textwidth][r]{\includegraphics[height=1.6cm]{juntos_por_la_reinsercion_logo.png}}
+
+    \vspace{0.8cm}
 
     {\Large\bfseries FUNDACIÓN JUNTOS POR LA REINSERCIÓN}\\[0.2cm]
-    {\large Comité Directivo y Dirección Ejecutiva}\\[2.5cm]
-
-    {\huge\bfseries Informe Estratégico y Metodológico}\\[0.5cm]
-    {\Large\bfseries Evaluación de Barreras, Incentivos y Modelos de Inserción Laboral con Enfoque de Género: Metodología 3P}\\[2.5cm]
-
-    \textbf{Elaborado por:}\\[0.2cm]
-    Vicente Rojas Murúa \textit{(Investigador Principal)}\\[0.1cm]
-    Leonardo Capobianco \textit{(Dirección de Proyecto)}\\[0.3cm]
-    \textbf{Unidad Técnica:} AIM Chile\\[3cm]
+    {\large Comité Directivo y Dirección Ejecutiva}
 
     \vfill
 
-    {\large Santiago, Chile}\\[0.2cm]
+    {\huge\bfseries Informe Estratégico y Metodológico}\\[0.4cm]
+    {\Large\bfseries Evaluación de Barreras, Incentivos y Modelos de Inserción Laboral con Enfoque de Género: Metodología 3P}
+
+    \vfill
+
+    \textbf{Elaborado por:}\\[0.15cm]
+    Vicente Rojas Murúa \textit{(Investigador)}\\[0.1cm]
+    Leonardo Capobianco \textit{(Investigador)}\\[0.25cm]
+    \textbf{Unidad Técnica:} AIM Chile
+
+    \vfill
+
+    {\large Santiago, Chile}\\[0.1cm]
     {\large Octubre de 2026}
 \end{titlepage}
