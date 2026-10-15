@@ -1,0 +1,293 @@
+\documentclass[aspectratio=169, 10pt]{beamer}
+
+% Configuración de idioma y paquetes estándar
+\usepackage[spanish, es-tabla]{babel}
+\usepackage{booktabs}
+\usepackage{graphicx}
+
+% Rutas de imágenes (compatible compilando desde la raíz o desde la carpeta /latex)
+\graphicspath{{images/}{../images/}}
+
+% Tema y colores corporativos
+\usetheme{Madrid}
+\usecolortheme{default}
+
+\definecolor{NavyBlue}{RGB}{27, 54, 93}
+\definecolor{SlateGray}{RGB}{74, 85, 104}
+
+\setbeamercolor{palette primary}{bg=NavyBlue,fg=white}
+\setbeamercolor{palette secondary}{bg=SlateGray,fg=white}
+\setbeamercolor{palette tertiary}{bg=NavyBlue,fg=white}
+\setbeamercolor{titlelike}{parent=palette primary}
+\setbeamercolor{block title}{bg=NavyBlue,fg=white}
+\setbeamercolor{block body}{bg=gray!10,fg=black}
+
+% Ocultar símbolos de navegación inferiores
+\setbeamertemplate{navigation symbols}{}
+
+% Información de la Portada
+\title[Informe Técnico JxR]{Inserción Laboral para Mujeres Anteriormente Privadas de Libertad}
+\subtitle{Propuesta Metodológica y Estudio de Adopción B2B}
+\author[V. Rojas \& L. Capobianco]{Vicente Rojas Murúa \and Leonardo Capobianco}
+\institute[JxR - AIM Chile - UChile]{
+  Fundación Juntos por la Reinserción (JxR) \par
+  AIM Chile | Facultad de Ciencias Sociales, Universidad de Chile
+}
+\date{Octubre de 2026}
+
+\begin{document}
+
+% -----------------------------------------------------------------------------
+% LÁMINA 1: PORTADA
+% -----------------------------------------------------------------------------
+\begin{frame}
+  \titlepage
+\end{frame}
+
+% -----------------------------------------------------------------------------
+% LÁMINA 2: DIAGNÓSTICO Y CONTEXTO CUANTITATIVO
+% -----------------------------------------------------------------------------
+\begin{frame}{1. Diagnóstico y Contexto del Sistema Penitenciario}
+  \begin{columns}[T]
+    \begin{column}{0.48\textwidth}
+      \begin{block}{Población Penal y Proyección}
+        \begin{itemize}
+          \item \textbf{162.043 personas} atendidas en el sistema penal chileno (88,2\% hombres / 11,8\% mujeres).
+          \item \textbf{30.000 egresos} proyectados entre 2025 y 2030; \textbf{8,2\% son mujeres}.
+          \item \textbf{85,4\% de las mujeres} son madres y jefas de hogar sustentadoras.
+        \end{itemize}
+      \end{block}
+    \end{column}
+    \begin{column}{0.48\textwidth}
+      \begin{block}{Eficiencia Fiscal y Hacinamiento}
+        \begin{itemize}
+          \item Hacinamiento crítico en régimen cerrado: promedio \textbf{130\% de ocupación} (hasta 200\% en alta densidad).
+          \item Costo penal cerrado: \textbf{\$800.000 CLP/mes} por persona recluida.
+          \item Medio libre / intermediación: inversión \textbf{5 veces menor} por usuario con alto impacto protector.
+        \end{itemize}
+      \end{block}
+    \end{column}
+  \end{columns}
+\end{frame}
+
+% -----------------------------------------------------------------------------
+% LÁMINA 3: PROBLEMATIZACIÓN Y SESGOS B2B
+% -----------------------------------------------------------------------------
+\begin{frame}{2. Problematización y Desafío B2B}
+  \begin{itemize}
+    \item \textbf{Sesgo de Deseabilidad Social Declarativa:}
+      \begin{itemize}
+        \item Las encuestas directas a gerentes ocultan el \textbf{veto implícito} en selección.
+        \item Respuestas guiadas por corrección política vs.\ decisiones reales de contratación.
+      \end{itemize}
+    \vspace{0.2cm}
+    \item \textbf{Doble Penalización de Género:}
+      \begin{itemize}
+        \item Estigma social por antecedentes penales + sanción por quebrantar el rol tradicional de género.
+        \item Altas cargas no remuneradas de cuidado familiar que colisionan con jornadas rígidas.
+      \end{itemize}
+    \vspace{0.2cm}
+    \item \textbf{Brecha de Inseguridad vs.\ Victimización:}
+      \begin{itemize}
+        \item Victimización real en caída (23,5\%), pero percepción de inseguridad en máximo histórico (56,6\%).
+        \item Amplifica la resistencia infundada en las gerencias de gestión de personas.
+      \end{itemize}
+  \end{itemize}
+\end{frame}
+
+% -----------------------------------------------------------------------------
+% LÁMINA 4: PREGUNTAS Y OBJETIVOS DEL ESTUDIO
+% -----------------------------------------------------------------------------
+\begin{frame}{3. Preguntas y Objetivos Estratégicos}
+  \begin{block}{Pregunta Central}
+    ¿Cuáles son los mecanismos organizacionales, condiciones necesarias y sesgos de género que explican la adopción empresarial y la permanencia laboral de mujeres en la red de JxR?
+  \end{block}
+
+  \vspace{0.2cm}
+
+  \begin{block}{Objetivos Específicos}
+    \begin{enumerate}
+      \item \textbf{Línea Base:} Medir permanencia observada a 30, 60 y 90 días por género.
+      \item \textbf{Aislar Sesgo:} Medir discriminación implícita mediante viñetas pareadas.
+      \item \textbf{Modelamiento QCA:} Combinatoria de condiciones para la adopción B2B.
+      \item \textbf{Propuesta Operativa:} Rediseñar oferta JxR (Bolsa Laboral, OTEC y CET).
+    \end{enumerate}
+  \end{block}
+\end{frame}
+
+% -----------------------------------------------------------------------------
+% LÁMINA 5: ARQUITECTURA METODOLÓGICA (13 SEMANAS)
+% -----------------------------------------------------------------------------
+\begin{frame}{4. Arquitectura Metodológica en 3 Fases}
+  \begin{description}[\bfseries Fase 1 (Sem 1--2)]
+    \item[\bfseries Fase 1 (Sem 1--2)] \textbf{Desk Research y Marco Operativo}
+      \begin{itemize}
+        \item Análisis de registros históricos JxR y datos de Gendarmería / Transparencia.
+        \item Diseño de viñetas pareadas y construcción del libro de códigos.
+      \end{itemize}
+    \vspace{0.15cm}
+    \item[\bfseries Fase 2 (Sem 3--7)] \textbf{Levantamiento de Campo Cualitativo}
+      \begin{itemize}
+        \item 10 casos de empresas en 4 desenlaces de adopción B2B.
+        \item 29 instancias de levantamiento (Tríadas, Díadas espejadas y Taller JxR).
+      \end{itemize}
+    \vspace{0.15cm}
+    \item[\bfseries Fase 3 (Sem 8--13)] \textbf{Análisis, Tipología y Hoja de Ruta}
+      \begin{itemize}
+        \item Modelamiento QCA ($k=3$), Process Tracing y tipología de empresas.
+        \item Rediseño de programas JxR y plan de implementación a 90 días.
+      \end{itemize}
+  \end{description}
+\end{frame}
+
+% -----------------------------------------------------------------------------
+% LÁMINA 6: DISEÑO MUESTRAL Y ESTRATEGIA DE CAMPO
+% -----------------------------------------------------------------------------
+\begin{frame}{5. Diseño Muestral (29 Instancias / 10 Casos)}
+  \begin{table}
+    \centering
+    \small
+    \begin{tabular}{l c l}
+      \toprule
+      \textbf{Unidad de Levantamiento} & \textbf{Instancias} & \textbf{Composición Muestral} \\
+      \midrule
+      \textbf{Casos de Empresa} & 18 & 2 tríadas (Dirección/RRHH/Jefatura), 4 díadas, 4 únicos \\
+      \textbf{Mujeres en Reinserción} & 8 & 4 continuas ($>3$ meses) y 4 con interrupción \\
+      \textbf{Ecosistema JxR} & 1 & Taller participativo con 6 profesionales de red \\
+      \textbf{Actores Públicos} & 2 & Conversatorios sobre fomento e incentivos \\
+      \midrule
+      \textbf{Total Instancias} & \textbf{29} & \textbf{10 Casos de Empresas Seleccionadas} \\
+      \bottomrule
+    \end{tabular}
+  \end{table}
+
+  \begin{block}{Criterios de Selección de Empresas}
+    3 Contrataron y sostuvieron ($>3$ meses) | 3 Contrataron pero interrumpieron | 3 Evaluaron y no avanzaron | 1 Nunca consideró.
+  \end{block}
+\end{frame}
+
+% -----------------------------------------------------------------------------
+% LÁMINA 7: MODELO QCA Y PARSIMONIA
+% -----------------------------------------------------------------------------
+\begin{frame}{6. Modelo QCA: Parsimonia y Condiciones Causales}
+  \begin{columns}[T]
+    \begin{column}{0.55\textwidth}
+      \begin{block}{3 Condiciones Organizacionales ($k=3$)}
+        \begin{enumerate}
+          \item \textbf{Sponsor en la Dirección:} Liderazgo de alta gerencia alineado.
+          \item \textbf{Compatibilidad de Cuidados:} Flexibilidad ante cargas familiares.
+          \item \textbf{Acompañamiento Post-Colocación:} Soporte psicosocial continuo de JxR.
+        \end{enumerate}
+      \end{block}
+    \end{column}
+    \begin{column}{0.42\textwidth}
+      \begin{block}{Justificación Metodológica}
+        \begin{itemize}
+          \item $k=3 \implies 2^3 = 8$ combinaciones configuracionales.
+          \item Con $N=10$ casos, la razón $10/8 > 1$ evita la \textit{diversidad limitada} (celdas vacías).
+          \item Maximiza la validez interna y la solidez lógica.
+        \end{itemize}
+      \end{block}
+    \end{column}
+  \end{columns}
+\end{frame}
+
+% -----------------------------------------------------------------------------
+% LÁMINA 8: PROCESS TRACING Y DÍADAS ESPEJADAS
+% -----------------------------------------------------------------------------
+\begin{frame}{7. Process Tracing y Análisis de Permanencia}
+  \begin{itemize}
+    \item \textbf{Comparación Emparejada (6 Casos de Contratación):}
+      \begin{itemize}
+        \item 3 Casos con permanencia continua vs.\ 3 casos con interrupción laboral.
+        \item Pareados por rubro económico y tamaño de empresa.
+      \end{itemize}
+    \vspace{0.2cm}
+    \item \textbf{Díadas Espejadas (Jefatura -- Trabajadora):}
+      \begin{itemize}
+        \item Entrevistas en paralelo y contrastadas en 3 casos empíricos.
+        \item Permite reconstruir la experiencia cotidiana en el puesto de trabajo.
+      \end{itemize}
+    \vspace{0.2cm}
+    \item \textbf{Foco Analítico:}
+      \begin{itemize}
+        \item Identificar detonantes de quiebre vs.\ factores de arraigo laboral.
+        \item Evaluar el rol del soporte temprano durante los primeros 90 días.
+      \end{itemize}
+  \end{itemize}
+\end{frame}
+
+% -----------------------------------------------------------------------------
+% LÁMINA 9: PAQUETE DE ENTREGABLES PARA LA DIRECTIVA
+% -----------------------------------------------------------------------------
+\begin{frame}{8. Paquete de Entregables Estratégicos}
+  \begin{columns}[T]
+    \begin{column}{0.48\textwidth}
+      \begin{block}{1. Informe Técnico y Ejecutivo}
+        Resultados completos de QCA, viñetas de género y rastreo de permanencia.
+      \end{block}
+      \begin{block}{2. Matriz B2B y Guía Comercial}
+        Tipología de empresas y argumentos para vencer puntos de veto en RR.HH.
+      \end{block}
+    \end{column}
+    \begin{column}{0.48\textwidth}
+      \begin{block}{3. Adaptación de Modelos JxR}
+        Propuestas concretas de ajuste para Bolsa Laboral, OTEC y CET.
+      \end{block}
+      \begin{block}{4. Hoja de Ruta a 90 Días}
+        Plan de acción operativo con recomendaciones de implementación inmediata.
+      \end{block}
+    \end{column}
+  \end{columns}
+\end{frame}
+
+% -----------------------------------------------------------------------------
+% LÁMINA 10: GOBERNANZA, ÉTICA Y CARTA GANTT
+% -----------------------------------------------------------------------------
+\begin{frame}{9. Gobernanza, Ética y Carta Gantt}
+  \begin{columns}[T]
+    \begin{column}{0.48\textwidth}
+      \begin{block}{Gobernanza y Resguardo Ético}
+        \begin{itemize}
+          \item Supervisión del Comité Directivo.
+          \item Evaluación por Comité de Ética Externo.
+          \item Consentimiento informado independiente y desacoplado del área comercial.
+        \end{itemize}
+      \end{block}
+    \end{column}
+    \begin{column}{0.48\textwidth}
+      \begin{block}{Cronograma (13 Semanas)}
+        \begin{itemize}
+          \item \textbf{Sem 1--2:} Desk Research y Ética.
+          \item \textbf{Sem 3--7:} Trabajo de Campo.
+          \item \textbf{Sem 8--10:} Análisis QCA.
+          \item \textbf{Sem 11--13:} Entregables y Taller.
+        \end{itemize}
+      \end{block}
+    \end{column}
+  \end{columns}
+\end{frame}
+
+% -----------------------------------------------------------------------------
+% LÁMINA 11: SÍNTESIS Y PRÓXIMOS PASOS
+% -----------------------------------------------------------------------------
+\begin{frame}{10. Síntesis y Próximos Pasos}
+  \begin{center}
+    \Large \textbf{De la Intuición Comercial a la Evidencia Causal}
+  \end{center}
+
+  \vspace{0.3cm}
+
+  \begin{itemize}
+    \item \textbf{Valor Estratégico:} Dota a la Fundación JxR de herramientas rigurosas para la prospección empresarial B2B y la fidelización de alianzas corporativas.
+    \item \textbf{Impacto Social:} Maximiza la permanencia laboral de mujeres, mitigando la reincidencia y promoviendo la inclusión efectiva.
+  \end{itemize}
+
+  \vspace{0.4cm}
+
+  \begin{block}{Próxima Acción Inmediata}
+    Aprobación del protocolo ético y validación del cronograma para inicio de levantamiento de campo en Semana 3.
+  \end{block}
+\end{frame}
+
+\end{document}

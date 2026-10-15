@@ -3086,7 +3086,8 @@
     <bcf:citekey order="13" intorder="1">ENUSC2025</bcf:citekey>
     <bcf:citekey order="14" intorder="1">Ley19628SobreProteccionDeLaVidaPrivada</bcf:citekey>
     <bcf:citekey order="15" intorder="1">Ley20285SobreAccesoALaInformacionPublica</bcf:citekey>
-    <bcf:citekey order="16" intorder="1" nocite="1">*</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">Ley20285SobreAccesoALaInformacionPublica</bcf:citekey>
+    <bcf:citekey order="17" intorder="1" nocite="1">*</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
